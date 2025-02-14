@@ -1,0 +1,298 @@
+# --- General options --- #
+
+# Name of website
+title: Home
+
+# Short description of your site
+description: Open Science Room 2024
+
+# --- Local development options ---
+# If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
+# *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
+
+# url is the the website domain URL without a trailing slash
+#url: "https://OHBM-OSR.com"
+
+# baseurl should be an empty string
+#baseurl: ""
+
+# --- Navigation bar options --- #
+
+# List of links in the navigation bar. Strings should match .md filenames
+navbar-links:
+  About Us:
+    - Formats: "formats"
+    - Code of Conduct: "osr_coc"
+    - Accessibility: "access"
+    - Team: "volunteers"
+    #- Sponsors: "sponsors"
+  OSSIG: "https://ossig.netlify.app/"
+  Program:
+    - Self-Nominations: "submit"
+    - Schedule: "schedule"
+    #- Schedule: "schedule-PLACEHOLDER"
+    - Panels: "panel"
+    - Emergent Sessions: "emergent"
+    - Table Talks: "tabletalk"
+    # - Open Mics: "openmic"
+    - Symposium: "symposium"
+    - Educational: "educational"
+  Register: "register"
+  Submit: "submit"
+  Volunteering: 
+    - Opportunities: "opportunities"
+    - Get involved!: "volunteer"
+  Contact Us: "contact"
+
+# Image to show in the navigation bar - image must be a square (width = height)
+# Remove this parameter if you don't want an image in the navbar
+avatar: "/img/OSR_logo_avatar.png"
+
+# If you want to have an image logo in the top-left corner instead of the title text,
+# then specify the following parameter
+#title-img: /img/logo-osr2020_square.png
+
+# --- Background colour/image options --- #
+
+# Personalize the colors in your website. Colour values can be any valid CSS colour
+
+navbar-col: "#FFFFF"
+navbar-text-col: "#4247A6"
+navbar-children-col: "#F5F5F5"
+page-col: "#FFFFFF"
+link-col: "#676AC2"
+hover-col: "#808080"
+footer-col: "#D6D7E3"
+footer-text-col: "#676AC2"
+footer-link-col: "#676AC2"
+
+# Alternatively, the navbar, footer, and page background can be set to use background images
+# instead of colour
+
+# navbar-img: "/img/bgimage.png"
+# footer-img: "/img/bgimage.png"
+# page-img: "/img/bgimage.png"
+
+# --- Footer options --- #
+
+# Change all these values or delete the ones you don't want.
+# Important: you must keep the "name" parameter, everything else you can remove
+author:
+  name: OSSIG
+
+# Select your active Social Network Links.
+# Uncomment the links you want to show in the footer and add your information to each link.
+# You can reorder the items to define the link order.
+# If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
+social-network-links:
+#  rss: true
+
+  facebook: openscience.ohbm
+  github: ohbm
+  twitter: OhbmOpen
+#  reddit: yourname
+#  linkedin: Name
+  email: "ohbmopenscience@gmail.com"
+#  email: "ohbm.osr@gmail.com" #this email is still used by past OSR chairs 
+#  xing: yourname
+#  stackoverflow: "3943160/daattali"
+#  snapchat: yourname
+#  instagram: yourname
+  youtube: channel/UChvSitFvqGDeA1y7MJs4CGQ
+#  spotify: yourname
+#  telephone: +14159998888
+#  steam: yourname
+#  twitch: yourname
+#  yelp: yourname
+
+# Select which share links to show in posts
+share-links-active:
+  twitter: true
+  facebook: true
+  linkedin: true
+
+# How to display the link to the website in the footer
+# Remove this if you don't want a link in the footer
+url-pretty: "ohbm.github.io/osr2025"  # eg. "deanattali.com/beautiful-jekyll"
+
+# --- Web Statistics Section --- #
+
+# Fill in your Google Analytics gtag.js ID to track your website using gtag
+#gtag: ""
+
+# Fill in your Google Analytics ID to track your website using GA
+#google_analytics: ""
+
+# Google Tag Manager ID
+#gtm: ""
+
+# Matomo (aka Piwik) Web statistics
+# Uncomment the following section to enable Matomo. The opt-out parameter controls
+# whether or not you want to allow users to opt out of tracking.
+
+#matomo:
+#  site_id: "9"
+#  uri: "demo.wiki.pro"
+#  opt-out: true
+
+# --- Comments --- #
+
+# Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
+# disqus: "OSSIG-OSR"
+
+# If you want to use JustComments fill with the API Key
+#just-comments: "ABCD-EFGH-IJKL"
+
+# To use Facebook Comments, fill in a Facebook App ID
+# fb_comment_id: ""
+
+# To use Staticman comments, fill in repository, branch, and endpoint
+staticman:
+  repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
+  branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
+  endpoint   : # URL of your own deployment, with a trailing slash (will fallback to a public GitLab instance) eg. https://<your-api>/v3/entry/github/
+  reCaptcha:
+    # reCaptcha for Staticman (OPTIONAL, but recommended for spam protection)
+    # If you use reCaptcha, you must also set these parameters in staticman.yml
+    siteKey  : # Use your own site key, you need to apply for one on Google
+    secret   : # ENCRYPT your password by going to https://staticman3.herokuapp.com/v3/encrypt/<your-site-secret>
+
+# --- Misc --- #
+
+# Facebook App ID
+# fb_app_id: ""
+
+# Excerpt Word Length
+# Truncates the excerpt to the specified number of words on the index page
+excerpt_length: 50
+
+# Character used to separate site title and description in HTML document title
+# and RSS feed title
+title-separator: "-"
+
+# Ruby Date Format
+date_format: "%B %-d, %Y"
+
+# --- Don't need to touch anything below here (but you can if you want) --- #
+
+# Output options (more information on Jekyll's site)
+timezone: "Europe/Amsterdam"
+markdown: kramdown
+highlighter: rouge
+permalink: /:year-:month-:day-:title/
+paginate: 5
+
+kramdown:
+  input: GFM
+
+# Default YAML values (more information on Jekyll's site)
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true  # add comments to all blog posts
+      social-share: true # add social media sharing buttons to all blog posts
+  -
+    scope:
+      path: "" # all files
+    values:
+      layout: "page"
+      show-avatar: true
+
+# Use tags index page and make tags on each post clickable
+link-tags: true
+
+# Exclude these files from production site
+exclude:
+  - CHANGELOG.md
+  - CNAME
+  - Dockerfile
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - Vagrantfile
+
+# prose.io config
+prose:
+  rooturl: '_posts'
+  media: 'img'
+  ignore:
+    - 404.html
+    - LICENSE
+    - feed.xml
+    - _config.yml
+    - /_layouts
+    - /_includes
+    - /css
+    - /img
+    - /js
+    - /_team
+    - bin
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Post title"
+          placeholder: "Title"
+          alterable: true
+      - name: "subtitle"
+        field:
+          element: "textarea"
+          label: "Subtitle"
+          placeholder: "A description of your post."
+          alterable: true
+      - name: "date"
+        field:
+          element: "text"
+          label: "Date"
+          help: "Enter date of post."
+          placeholder: "yyyy-mm-dd"
+          alterable: true
+      - name: "image"
+        field:
+          element: "text"
+          label: "Image"
+          help: "Add a thumbnail image to your post."
+          placeholder: "Thumbnail"
+          alterable: true
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Publish"
+          help: "Check to publish post, uncheck to hide."
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jemoji
+
+permalinks: pretty
+
+paginate_path: "/news/page:num/"
+# Beautiful Jekyll / Dean Attali
+# 2fc73a3a967e97599c9763d05e564189
+
+plugins:
+  - pagemaster
+
+collections:
+  speakers:
+    output: true
+    source: speakers.csv
+    id_key: Name
+    layout: speaker_page
+
+  volunteers:
+    output: true
+    source: volunteers.csv
+    id_key: Name
+    layout: speaker_page
