@@ -79,7 +79,8 @@ The OSR has always been a place to learn and share experiences.
 This year we are centering these experiences around themes which are undergoing rapid change in our discipline. 
 
 For each panel discussion session, we are looking for 1-2 self-nominated panelists. 
-**If you are interested in joining as a panelist and would like to self-nominate, please self-register <a href="https://forms.office.com/r/pBYUbr5bEg" target="_blank">here</a>!** <br>
+Registration will be open soon!
+<!-- **If you are interested in joining as a panelist and would like to self-nominate, please self-register <a href="https://forms.office.com/r/pBYUbr5bEg" target="_blank">here</a>!** <br> -->
 
 ## Topic 1: Open Science Room Opening ft. BIDS annual updates
 <!-- #### <a href="https://www.crowdcast.io/c/panel-1-bills" target="_blank"> Join on Crowdcast</a> 
