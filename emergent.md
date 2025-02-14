@@ -134,6 +134,6 @@ Submitted Emergent requests will be briefly reviewed and selected by the OSR tea
 
 <div id='emergent-sign'></div>
 <h2>Program and sign-up</h2>
-
-**You can request to hold such a session <!-- until June 25 (12pm anywhere on Earth)  -->by creating an issue through our github repo [template](https://github.com/ohbm/osr2024/issues/1){:target="_blank"}.**<br> <br>
-<!-- After this date, t -->The sessions will be reviewed based on their timeliness and interest to the open science audience by the OSR team and we will notify everyone of their assigned sessions in early June. <br> 
+Submissions will be open soon!
+<!-- **You can request to hold such a session by creating an issue through our github repo [template](https://github.com/ohbm/osr2024/issues/1){:target="_blank"}.**<br> <br>
+The sessions will be reviewed based on their timeliness and interest to the open science audience by the OSR team and we will notify everyone of their assigned sessions in early June. <br>  -->
