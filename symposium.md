@@ -56,7 +56,7 @@ Open science is crucial for advancing AI applications in neuroscience and medici
 <br>
 
 
-<table class="people">
+<!-- <table class="people">
     <tr class="people">
         <td class="people">
             <a style="display:block; color:#05323F">
@@ -66,11 +66,11 @@ Open science is crucial for advancing AI applications in neuroscience and medici
                 <h3>Filima Patrick</h3>
                 <h6>University of Port-Harcourt, Nigeria</h6>
                 <h4>
-                <!--
+                
                 <a target="_blank" href="https://twitter.com/NaomiGaggi"><i class="fa fa-twitter fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
                 <a target="_blank" href="https://github.com/NaomiGaggi"><i class="fa fa-github fa-2x" style="position: relative; top: 0px; text-indent:0px; vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
                 <a target="_blank" href="https://NaomiGaggi.Wordpress.com"><i class="fa fa-external-link-square fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
-                -->
+               
                 </h4>
                 <br>
             </header>
@@ -85,11 +85,11 @@ Open science is crucial for advancing AI applications in neuroscience and medici
                 <h3>Ebere Wogu</h3>
                 <h6>University of Port-Harcourt, Nigeria</h6>
                 <h4>
-                 <!--
+                 
                 <a target="_blank" href="https://twitter.com/SubapriyaSuppi1"><i class="fa fa-twitter fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
                 <a target="_blank" href="https://github.com/Drpriyasiva"><i class="fa fa-github fa-2x" style="position: relative; top: 0px; text-indent:0px; vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
                 <a target="_blank" href="https://www.linkedin.com/in/subapriya-suppiah-93375b8b/"><i class="fa fa-external-link-square fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
-                -->
+               
                 </h4>
                 <br>
             </header>
@@ -104,11 +104,11 @@ Open science is crucial for advancing AI applications in neuroscience and medici
                 <h3>Damian Eke</h3>
                 <h6>University of Nottingham, UK</h6>
                 <h4>
-                 <!--
+                 
                 <a target="_blank" href="https://twitter.com/SubapriyaSuppi1"><i class="fa fa-twitter fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
                 <a target="_blank" href="https://github.com/Drpriyasiva"><i class="fa fa-github fa-2x" style="position: relative; top: 0px; text-indent:0px; vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
                 <a target="_blank" href="https://www.linkedin.com/in/subapriya-suppiah-93375b8b/"><i class="fa fa-external-link-square fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
-                -->
+               
                 </h4>
                 <br>
             </header>
@@ -123,11 +123,11 @@ Open science is crucial for advancing AI applications in neuroscience and medici
                 <h3>Franco Pestilli</h3>
                 <h6>Speaker, University of Texas, USA</h6>
                 <h4>
-                 <!--
+                 
                 <a target="_blank" href="https://twitter.com/SubapriyaSuppi1"><i class="fa fa-twitter fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
                 <a target="_blank" href="https://github.com/Drpriyasiva"><i class="fa fa-github fa-2x" style="position: relative; top: 0px; text-indent:0px; vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
                 <a target="_blank" href="https://www.linkedin.com/in/subapriya-suppiah-93375b8b/"><i class="fa fa-external-link-square fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
-                -->
+               
                 </h4>
                 <br>
             </header>
@@ -146,9 +146,9 @@ Open science is crucial for advancing AI applications in neuroscience and medici
                 <h3>Xinian Xuo</h3>
                 <h6>Beijing Normal University</h6>
                 <h4>
-                 <!--
+                 
                 <a target="_blank" href="https://twitter.com/sNeuroble"><i class="fa fa-twitter fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
-                -->
+               
                 </h4>
                 <br>
             </header>
@@ -163,9 +163,9 @@ Open science is crucial for advancing AI applications in neuroscience and medici
                 <h3> Ollie Gray</h3>
                 <h6> UK Biobank</h6>
                 <h4>
-                <!--
+                
                 <a target="_blank" href="https://twitter.com/vborghesani"><i class="fa fa-twitter fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
-                -->
+               
                 </h4>
                 <br>
             </header>
@@ -180,9 +180,9 @@ Open science is crucial for advancing AI applications in neuroscience and medici
                 <h3> Carina Heller</h3>
                 <h6> ENIGMA Neuroendocrinology Working Group</h6>
                 <h4>
-                <!--
+                
                 <a target="_blank" href="https://twitter.com/vborghesani"><i class="fa fa-twitter fa-2x" style="position: relative; top: 0px;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a>
-                -->
+               
                 </h4>
                 <br>
             </header>
@@ -192,14 +192,7 @@ Open science is crucial for advancing AI applications in neuroscience and medici
         <td class="people">
         </td>
     </tr>
-</table>
-
-
-### Learning Objectives:
-- Provide a state-of-the-art overview on how large open datasets were created - providing insight to those who plan to build their own large open neuroimaging datasets. 
-- Shine a light on the need for further representative samples, from which to draw general conclusions about the mechanisms underlying  human brain structure and function. For this it will highlight the various open datasets that are already available globally.
-- Provide considerable practical guidance for ECRs and more established researchers on how to start using these databases, and examples on how their use can supplement and enhance smaller, more targeted research studies. 
-
+</table> -->
 
 
 
