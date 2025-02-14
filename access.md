@@ -23,7 +23,7 @@ All interactions relating to the OSR should be conducted in accordance with the 
 <br>
 ## Hybrid attendance
 <p align="justify">
-The 2024 OSR will be open for hybrid attendance. This presents an opportunity to engage with groups that are often underrepresented or excluded,  such as researchers from low and middle income countries, those with caretaker responsibilities, early career researchers, scientists with disabilities, and those with limited or no institutional and/or financial support.
+The 2025 OSR will be open for hybrid attendance. This presents an opportunity to engage with groups that are often underrepresented or excluded,  such as researchers from low and middle income countries, those with caretaker responsibilities, early career researchers, scientists with disabilities, and those with limited or no institutional and/or financial support.
 </p>
 <div id="sensory"></div>
 <br>
