@@ -10,7 +10,7 @@ OSR will have one of the following formats:
     <a href="#panel"><img src="../img/Panel_geg.png" height="200" style="width:24.5%" alt="Panel"></a>
     <a href="#tabletalk"><img src="../img/Table_geg.png" height="200" style="width:24.5%" alt="Table"></a>
     <a href="#emergent"><img src="../img/Emergent_geg.png" height="200" style="width:24.5%" alt="Emergent"></a>
-    <a href="#educational"><img src="../img/educational_geg.png" height="200" style="width:24.5%" alt="Educational Courses"></a>
+    <a href="#educational"><img src="../img/educational_geg.svg" height="200" style="width:24.5%" alt="Educational Courses"></a>
 </div>
 
 {::options parse_block_html="true" /}
