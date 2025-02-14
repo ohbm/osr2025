@@ -13,16 +13,16 @@ title: Schedule
 <h5 style="text-align: center;">
 GMT+9
 </h5>
-<!-- 
+
 ## Coming soon!
 Meanwhile, please find the information in the following sections:
 * [Panel Discussions](/panel.md)
 * [Table Talk](/tabletalk.md)
 * [Emergent Sessions](/emergent.md)
 * [Symposium](/symposium.md)
-* [Open Mics](/openmic.md) -->
+* [Educational Courses](/educational.md)
 
-<div id="schedule-06-24" class="schedule-block">
+<!-- <div id="schedule-06-24" class="schedule-block">
     <h4>June 24, Monday</h4>
     <div class="schedule-content">
         <table class="osr-schedule">
@@ -41,7 +41,7 @@ Meanwhile, please find the information in the following sections:
                 <td>11:30-12:30</td>
                 <td>
                     <div><a href="https://ohbm.github.io/osr2024/tabletalk/" target="_blank">Table Talk 1:</a> Open Science - Who pays the bill?</div>
-                    <!-- <div><a href="https://www.crowdcast.io/e/osr-2023-emergent-1" target="_blank">Join on Crowdcast</a></div> -->
+                    <div><a href="https://www.crowdcast.io/e/osr-2023-emergent-1" target="_blank">Join on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>
@@ -66,9 +66,9 @@ Meanwhile, please find the information in the following sections:
             </tr>
         </table>
     </div>
-</div>
+</div> -->
 
-<div id="schedule-06-25" class="schedule-block">
+<!-- <div id="schedule-06-25" class="schedule-block">
     <h4>June 25, Tuesday</h4>
     <div class="schedule-content">
         <table class="osr-schedule">
@@ -94,7 +94,7 @@ Meanwhile, please find the information in the following sections:
                 <td>11:45-12:45</td>
                 <td>
                     <div><a href="https://ohbm.github.io/osr2023/tabletalk/" target="_blank">Table Talk 2:</a> Getting Started in Open Science</div>
-                    <!-- <div><a href="https://www.crowdcast.io/e/osr-2023-emergent-2" target="_blank">Join on Crowdcast</a></div> -->
+                    <div><a href="https://www.crowdcast.io/e/osr-2023-emergent-2" target="_blank">Join on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>
@@ -115,14 +115,14 @@ Meanwhile, please find the information in the following sections:
                 <td>16:00-17:00</td>
                 <td>
                     <div><a href="https://ohbm.github.io/osr2024/tabletalk/" target="_blank">Table Talk 3:</a> Many A Little Makes A Mickle - Crowdsourcing for brain mapping</div>
-                    <!-- <div><a href="https://www.crowdcast.io/e/osr-2023-emergent-3" target="_blank">Join on Crowdcast</a></div> -->
+                    <div><a href="https://www.crowdcast.io/e/osr-2023-emergent-3" target="_blank">Join on Crowdcast</a></div>
                 </td>
             </tr>
         </table>
     </div>
-</div>
+</div> -->
 
-<div id="schedule-06-26" class="schedule-block">
+<!-- <div id="schedule-06-26" class="schedule-block">
     <h4>June 26, Wednesday</h4>
     <div class="schedule-content">
         <table class="osr-schedule">
@@ -148,7 +148,7 @@ Meanwhile, please find the information in the following sections:
                 <td>13:00-14:00</td>
                 <td>
                     <div><a href="https://ohbm.github.io/osr2024/tabletalk/" target="_blank">Table Talk 4:</a> The changing face of Open Science</div>
-                    <!-- <div><a href="https://www.crowdcast.io/e/osr-table-data-governance" target="_blank">Join on Crowdcast</a></div> -->
+                    <div><a href="https://www.crowdcast.io/e/osr-table-data-governance" target="_blank">Join on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>
@@ -160,9 +160,9 @@ Meanwhile, please find the information in the following sections:
             </tr>
         </table>
     </div>
-</div>
+</div> -->
 
-<div id="schedule-06-27" class="schedule-block">
+<!-- <div id="schedule-06-27" class="schedule-block">
     <h4>June 27, Thursday</h4>
     <div class="schedule-content">   
         <table class="osr-schedule">
@@ -181,7 +181,7 @@ Meanwhile, please find the information in the following sections:
                 <td>11:30-12:30</td>
                 <td>
                     <div><a href="https://ohbm.github.io/osr2024/tabletalk/" target="_blank">Table Talk 5:</a> Open Science in Asia/Korea</div>
-                    <!-- <div><a href="https://www.crowdcast.io/e/osr-table-data-reuse" target="_blank">Join on Crowdcast</a></div> -->
+                    <a href="https://www.crowdcast.io/e/osr-table-data-reuse" target="_blank">Join on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>
@@ -193,7 +193,7 @@ Meanwhile, please find the information in the following sections:
             </tr>
         </table>
     </div>
-</div>
+</div> -->
 
 <div class="schedule-leave-space-before-footer">
 </div>

@@ -81,19 +81,19 @@ This year we are centering these experiences around themes which are undergoing 
 For each panel discussion session, we are looking for 1-2 self-nominated panelists. 
 **If you are interested in joining as a panelist and would like to self-nominate, please self-register <a href="https://forms.office.com/r/pBYUbr5bEg" target="_blank">here</a>!** <br>
 
-## Topic 1: Open Science - Who pays the bill?
-#### <a href="https://www.crowdcast.io/c/panel-1-bills" target="_blank"> Join on Crowdcast</a> 
+## Topic 1: Open Science Room Opening ft. BIDS annual updates
+<!-- #### <a href="https://www.crowdcast.io/c/panel-1-bills" target="_blank"> Join on Crowdcast</a> 
 When: 9:00 GMT+9 | June 24, 2024 (Monday) <br/>
 <br/>
 <div>
 <img src="../img/Panel1-speakers.png" alt = "panel1" width="100%" style="margin:10px 10px;">
-</div>
-With a growing interest in Open Science, questions arise regarding who is paying for what and what 'inclusive' means. If Open Access publication comes with high fees, one can ask whether this shift in payment responsibility, from the reader to the author, is excluding more people than it includes. Related to this is the question of the relationship between Open Access and Impact Factors and how much this affects researchers from different backgrounds and at different stages of their careers. There are also invisible costs to Open Science, such as platforms for sharing preprints, code, and data. Who develops, maintains, and hosts these platforms, and why? These are examples of the questions that will be addressed during this panel discussion. Experts with diverse backgrounds will share their experiences and thoughts. An open discussion on these matters will foster critical inquiry into the ideal form that Open Science should take.   
+</div> -->
+With a growing interest in Open Science in the OHBM community, this session will introduce Open Science Room (OSR) events during OHBM 2025 with the current progress of the Open Science Special Interest Group (OSSIG) and the working group of an Open Science Tool that is widely used by the OHBM community; this year, we are featuring the Brain Imaging Data Structure (BIDS). This session aims to bring people’s attention to the Open Science initiative at OHBM. This opening session helps us bring awareness of our progress and expand the Open Science community beyond the North American and European networks. Such expansion will lead to a more diverse community and make Open Science practices more inclusive. We will address the current progress of OSR and OSSIG and welcome feedback from the community for future planning. By partnering with the BIDS team, we aim to reach out to the broader users and developers community of Open Science. A Q&A session at the end will foster interactive discussions with the broad Open Science community at OHBM. 
 <br><br>
 
-At the end of the panel discussion, the audience members will be able to:
-  1. Giving insight into who pays in for what (neuro-)science and who does that affects most.
-  2. Stimulate critical thinking on how to make Open Science inclusive in terms of costs.
+This panel will:
+  1. Provide updates and awareness of the Open Science Room and the Open Science Special Interest Group
+  2. Provide annual updates on the development of the Brain Imaging Data Structure (BIDS) tools
 <br/>
 
 <html>
@@ -104,19 +104,22 @@ document.getElementById("open-science-panel").innerHTML = displayPanel("Open Sci
 </script>
 </html>
 
-## Topic 2: Getting Started in Open Science
-#### <a href="https://www.crowdcast.io/c/panel-2-start" target="_blank">Join on Crowdcast</a> 
+## Topic 2: The role of scientific communities, pt. 2: open tools for open (neuro)imaging.
+<!-- #### <a href="https://www.crowdcast.io/c/panel-2-start" target="_blank">Join on Crowdcast</a> 
 When: 9:00 GMT+9 | June 25, 2024 (Tuesday) <br/>
 <p>
 <img src="../img/Panel2-speakers.png" alt = "panel2" width="100%" style="margin:10px 10px;">
-</p>
+</p> -->
 <br/>
-There is rapid change occurring in and shaping the landscape of the scientific community that is caused by the open science movement. The panellists will dive into deconstructing and defining open access; open data, materials, and code; as well as touch on facilitating reproducible analyses, preregistration and registered reports such as in PrePrints, easy replication of research methods, inclusive of teaching open science practices. An open discussion on these matters will foster critical inquiry into the ideal form that Open Science should take, with recommendations of best practices in Open Science. 
+While science has never really been a solo endeavour, we are increasingly observing the inception of scientific communities of any kind and size to address emerging scientific problems with a new perspective, that of international collaborative spirit.
+In this panel discussion, co-organized by three Open Science communities across three societies (the OSSIG from OHBM, the Reproducible Research Study Group of ISMRM, and the organizers of MRITogether by ESMRMB), we will continue exploring this exciting approach to doing science, looking at the outcome and deliverables of scientific communities in the field of (neuro)imaging, exploring synergies and the exchange with more traditional forms of academic organization. 
 <br><br>
 
-At the end of the panel discussion, the audience members will be able to:
-  1. Giving insight in what are the best practices in Open Science.
-  2. Stimulate critical thinking on how to make Open Science inclusive in terms of participants from various geographical locations, gender, race and disabilities.
+At this panel discussion, we wil:
+  1. Introduce different scientific communities with open science interest groups.
+  2. Provide specific examples of international scientific communities' achievements and new instruments for neuroimaging and open science.
+  3. Provide best practices for inclusive, international collaboration with flat hierarchies and democratic decision making.
+
 <br/>
 <html>
 <div class="panel-speakers" id="panel2"></div>
@@ -126,24 +129,20 @@ document.getElementById("open-publishing-panel").innerHTML = displayPanel("Open 
 </script>
 </html>
 
-## Topic 3: Many A Little Makes A Mickle: Crowdsourcing for brain mapping
-#### <a href="https://www.crowdcast.io/c/panel-3-crowdsource" target="_blank"> Join on Crowdcast </a> 
+## Topic 3: Harnessing AI and Biological Systems for Advancing Neuroimaging and Biomedical Research
+<!-- #### <a href="https://www.crowdcast.io/c/panel-3-crowdsource" target="_blank"> Join on Crowdcast </a> 
 When: 13:30 GMT+9 | June 25, 2024 (Tuesday) <br/>
 <p>
 <img src="../img/Panel3-speakers.png" alt = "panel3" width="100%" style="margin:10px 10px;">
-</p>
+</p> -->
 <br/>
-Crowdsourcing e.g., multi-site collaboration and citizen science, is rising as a new research paradigm. By harnessing the power of crowdsourcing, we can leverage the diverse expertise and perspectives of a global community to accelerate advancements in brain mapping. This collaborative approach not only facilitates the sharing of data and resources but also promotes innovation and efficiency in tackling the complexities of understanding the brain. With the following examples of the questions that will be addressed during this panel discussion, experts with diverse backgrounds will share their experiences and thoughts.
+As AI continues to advance, its integration into neuroimaging and biomedical research brings both immense potential and complex challenges. We will examine the role of open science principles in AI-based brain decoding projects, the ethical considerations of AI in biomedical research, and how biological systems can inspire machine learning models. The session will also highlight emerging standards for AI-readiness in biomedical data and the ethical implications of AI in clinical practice. Experts with diverse backgrounds in AI, neuroimaging, and biological systems will share their insights and experiences, fostering an open discussion that encourages critical thinking about the future of AI in neuroimaging. By exploring these timely issues, the symposium will provide valuable knowledge on the best practices for responsible AI use and how biological systems can enhance machine learning efficiency. The goal is to promote deeper understanding and encourage the development of AI methods that are both scientifically rigorous and ethically sound, benefiting researchers, clinicians, and AI practitioners alike.
 <br><br>
 
-Specific topics of discussion include:
-  - How does crowdsourcing work in brain mapping research? 
-  - What are the ethical considerations unique to crowdsourcing projects? 
-<br><br>
-
-At the end of the panel discussion, the audience members will be able to:
-  1. Get insights into how crowdsourcing and open science work and identify optimal crowdsourcing models for brain mapping research.
-  2. Develop a nuanced understanding of ethical considerations unique to crowdsourcing neuroscience projects.
+This panel discussion will:
+  1. Provide insights into the ethical considerations and standards for AI applications in neuroimaging and biomedical research, including AI-readiness of biomedical data and explainable AI (XAI).
+  2. Stimulate critical thinking on how open science principles, including reproducibility, can be implemented inclusively in AI-driven neuroimaging research, addressing both financial and accessibility challenges.
+  3. Explore the role of biological neural networks in enhancing the efficiency of machine learning models, encouraging discussions on how biological systems can inspire advancements in AI and neuroimaging applications.
 <br>
 <html>
 <div class="panel-speakers" id="panel5"></div>
@@ -153,53 +152,25 @@ document.getElementById("social-bias-panel").innerHTML = displayPanel("Social Bi
 </script>
 </html>
 
-## Topic 4: The changing face of Open Science
-#### <a href="https://www.crowdcast.io/c/panel-4-changing" target="_blank"> Join on Crowdcast </a> 
+## Topic 4: Introducing the OSSIG Reproducibility Challenge - results of and insight from the 2025 pilot
+<!-- #### <a href="https://www.crowdcast.io/c/panel-4-changing" target="_blank"> Join on Crowdcast </a> 
 When: 11:15 GMT+9 | June 26, 2024 (Wednesday) <br/>
 <p>
 <img src="../img/Panel4-speakers.png" alt = "panel4" width="100%" style="margin:10px 10px;">
-</p>
+</p> -->
 <br/>
-There has been a dramatic shift in the uptake of open science practices in the past thirty years. This has led to considerable change in how we collect, analyze and distribute data, how we publish and disseminate findings, and how we recruit staff and seek employment. How we do science has changed - and so understanding what has happened, why, and where things may yet change is of key importance to researchers from all fields. Attendees will find out about the drivers behind many of these changes - whether they have lived up to expectations, and where any gaps remain.
+Under the requests of many journals and funding bodies, we are invited more and more to make our science open and reproducible. But did we achieve the point in which we can say that all the science we present at OHBM is reproducible, or are there issues that still need to be overcome?
+OHBM already recognizes the effort of reproducing science through the Replication Award, and with this reproducibility challenge, the OSSIG aims to bring back the spotlight to original authors who excelled at making their science open and reproducible.
+In this session, we will introduce this initiative, inspired by the ISMRM reproducibility challenge. We will ask the challengers to present their achievements in undertaking the pilot edition of the OSSIG reproducible challenge and reflect on the obstacles that they had to overcome. We will then discuss how to improve the OSSIG reproducibility challenge initiative for future editions.
 <br><br>
-
-At the end of the panel discussion, the audience members will be able to:
-  1. Consider the major initiatives of open science and find out how these developments can be used to improve your workflows.
-  2. Develop a deep understanding of how open science fits within the broader publishing and funding landscapes.
-<br/>
+You didn’t partake in the challenge, and you wonder if you can attend this session? 
+Fear not - This session is open to everyone interested in reproducible science!
+More information about the OSSIG reproducibility challenge at https://ossig.netlify.app/challenge/
+<br><br>
 <html>
 <div class="panel-speakers" id="panel3"></div>
 
 <script>
 document.getElementById("open-code-panel").innerHTML = displayPanel("Open Code");
-</script>
-</html>
-
-## Topic 5: Open Science in Asia/Korea
-#### <a href="https://www.crowdcast.io/c/panel-5-asia" target="_blank">Join on Crowdcast</a> 
-When: 9:00 GMT+9 | June 27, 2024 (Thursday) <br/>
-<p>
-<img src="../img/Panel5-speakers.png" alt = "panel5" width="100%" style="margin:10px 10px;">
-</p>
-<br/>
-Although Open Science has been well-recognized by the neuroimaging field as a crucial step towards better scientific practices that facilitate reproducibility and reliability, the progress has mainly taken place in the Western world. Asia, or Korea specifically, is relatively new to the practice and the idea and has encountered unique challenges. With the annual meeting of OHBM being held in an Asian, non-English speaking country, this meeting provides a unique opportunity for local researchers who are interested in Open Science to share their experiences and challenges they face in their countries. This discussion will foster the development of Open Science through international collaboration and advance the Open Science practice to being more inclusive globally.
-<br><br>
-
-Specific topics of discussion include:
-  - What is stopping people from practicing Open Science?
-  - What is stopping institutions and governments to support Open Science?
-  - How do you think the community could help?
-<br><br>
-
-At the end of the panel discussion, the audience members will be able to:
-  1. Understanding the current Open Science in Asia/Korea.
-  2. Learn about the unique challenges Asian/Korean Open Science researchers are facing.
-  3. Initiate discussion for possible solutions and support.
-<br/>
-<html>
-<div class="panel-speakers" id="panel4"></div>
-
-<script>
-document.getElementById("statistical-perspectives-panel").innerHTML = displayPanel("Statistical Perspectives");
 </script>
 </html>

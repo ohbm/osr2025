@@ -2,7 +2,10 @@
 layout: page
 title: Emergent Sessions and more
 ---
-### Emergent Session 1: The interplay between brain, behavior, and cognition from childhood to adulthood: Panel discussion with independent research groups on simulated datasets
+
+### OHBM OSR 2025 will have 6 emergent session. Submission will open in early June.
+
+<!-- ### Emergent Session 1: The interplay between brain, behavior, and cognition from childhood to adulthood: Panel discussion with independent research groups on simulated datasets
 
 #### Neda Sadeghi, Isabelle van der Velpen, and Tonya White, Social and Cognitive Developmental Neuroscience, NIMH
 #### 12:45 (GMT+9) June 24 (Monday)
@@ -101,9 +104,9 @@ We would like to hear feedback about our software such as how to improve the exp
 
 This year, we introduce a new format at the OSR: the Open Mics session. In this session, participants from all levels are welcomed to have a 5-minute time slot, **from 10:30-11:00 am and from 12:45-13:15 pm on June 25th (Tue.)**, during which they can express or share what their thoughts on Open Science with the community. It is a good place to promote your software, your research, your ideas, or even your opinions related to Open Science. There will be no Q&A time after each presentation, but we encourage everyone interested to approach the speaker and initiate a conversation. We hope this format allow people to share thoughts and ideas that are less polished but could be worthwhile for the community to know, to think about, or even to contribute. 
 
-If you are interested in participating, either virtual or in-person, please fill out <a href="https://forms.office.com/r/LajtFajja2">this form</a>. The presentation will be planned on a first-come-first-serve basis. The host will call your name when you are the next to present and control the presentation time. For more information, please click <a href="https://ohbm.github.io/osr2024/openmic/">here</a>.
+If you are interested in participating, either virtual or in-person, please fill out <a href="https://forms.office.com/r/LajtFajja2">this form</a>. The presentation will be planned on a first-come-first-serve basis. The host will call your name when you are the next to present and control the presentation time. For more information, please click <a href="https://ohbm.github.io/osr2024/openmic/">here</a>. -->
 
----
+<!-- --- -->
 
 {::options parse_block_html="true" /}
 

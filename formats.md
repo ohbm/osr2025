@@ -10,7 +10,7 @@ OSR will have one of the following formats:
     <a href="#panel"><img src="../img/Panel_geg.png" height="200" style="width:24.5%" alt="Panel"></a>
     <a href="#tabletalk"><img src="../img/Table_geg.png" height="200" style="width:24.5%" alt="Table"></a>
     <a href="#emergent"><img src="../img/Emergent_geg.png" height="200" style="width:24.5%" alt="Emergent"></a>
-    <a href="#openmic"><img src="../img/OpenMic_geg.png" height="200" style="width:24.5%" alt="Open"></a>
+    <a href="#educational"><img src="../img/educational_geg.png" height="200" style="width:24.5%" alt="Educational Courses"></a>
 </div>
 
 {::options parse_block_html="true" /}
@@ -23,7 +23,7 @@ As for the main OHBM conference, this year's OSR will happen across in hybrid fo
 
 {::options parse_block_html="true" /}
 
-<!-- <div id='educational'></div>
+<div id='educational'></div>
 <br/>
 <br/>
 {% include youtubePlayer.html id="Z-aOcZSAmHY" %}
@@ -31,13 +31,13 @@ As for the main OHBM conference, this year's OSR will happen across in hybrid fo
 
 <p align="justify">Educational Sessions are guides and 'how-tos' for open science-related topics, spanning from novice-level introductions to coding to advanced-level pipeline implementations.</p>
 
-<p align="justify">**How can I view Educational Sessions?**</p>
-<p align="justify"> Educational Sessions are pre-recorded and broadcast for everyone, anytime, and in any time zone! The educational sessions will forever live on Youtube and DouYu. You can also leave questions on the video posts and speakers will be encouraged to get back to you.</p>
+<!-- <p align="justify">**How can I view Educational Sessions?**</p>
+<p align="justify"> Educational Sessions are pre-recorded and broadcast for everyone, anytime, and in any time zone! The educational sessions will forever live on Youtube and DouYu. You can also leave questions on the video posts and speakers will be encouraged to get back to you.</p> -->
 
 <br/>
 <br/>
 
---- -->
+---
 
 <div id='panel'></div>
 <br/>
@@ -95,14 +95,14 @@ Questions from the audience are encouraged (via chat feature if virtual) and wil
 
 <p align="justify">**How do I host an Emergent Session?**</p>
 <p align="justify"> Emergent Sessions are bookable during the meeting for times allocated for Emergent Sessions.
-For 2024 OSR, we are opening 2 slots now and 2 slots shortly before the conference.
+For 2025 OSR, we are opening 6 slots.
 Emergent Sessions can be booked by any OHBM or OSR registered participant at any point during these periods of time (or in the meeting while there is space in the schedule).
 Submitted Emergent requests will be briefly reviewed and selected by the OSR team for appropriate content (taking into account diversity and how the topics fits), and details communicated regarding how to book a slot in our schedule. We will be on hand to manage the hosting and broadcast of your session on your behalf, and help your participants join the conversation.</p>
 
 <p align="justify">**How can I attend Emergent Sessions if I am a virtual attendee?**</p>
 <p align="justify"> All Emergent Sessions will be live streamed and recorded (unless we have specific reason to think this would inhibit discussion). The recorded sessions will be made available for viewing on Crowdcast straight after the event. Links to this “spontaneously” recorded material will be shared with registered participants.</p>
 
----
+<!-- ---
 
 <div id='openmic'></div>
 <br/>
@@ -114,7 +114,7 @@ Submitted Emergent requests will be briefly reviewed and selected by the OSR tea
 <p align="justify">**How to sign up?**</p>
 <p align="justify"> Please sign up by filling the following form, and we welcome both virtual and in-person presentors. The Open Mics session will feature a host who will call your name when you are the next to present and control the presentation time.</p>
 
-<iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAAC9pqdJUMUxUMlk3UVhFNERWSFIzQzlEWktRMFdUNC4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+<iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAAC9pqdJUMUxUMlk3UVhFNERWSFIzQzlEWktRMFdUNC4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe> -->
 
 
 {::options parse_block_html="false" /}
