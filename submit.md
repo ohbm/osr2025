@@ -5,12 +5,12 @@ title: Submit
 
 <div id="submission"></div>
 <br>
-# Submissions NOW OPEN !!!
+# Submissions will be open soon !!!
 
 {::options parse_block_html="false" /}
 {::options parse_block_html="true" /}
 
-This year, you can **self-nominate** as a speakers for one of our **panel discussions** and/or submit your own **emergent session**. 
+<!-- This year, you can **self-nominate** as a speakers for one of our **panel discussions** and/or submit your own **emergent session**. 
 
 <p align="justify">
   Before starting your submission make sure you are familiar with the [OSR formats](/formats.md){:target="_blank"}.
@@ -20,17 +20,11 @@ This year, you can **self-nominate** as a speakers for one of our **panel discus
   We are also always **looking for volunteers** to help us with the organisation of the OSR activities. If you are interested to join us, 
   please fill in this [form](https://forms.office.com/r/k9dL88hYiJ){:target="_blank"}! <br><br>
   You can find more info on volunteering opportunities [here](https://ohbm.github.io/osr2024/opportunities/){:target="_blank"} or by contacting us through e-mail: ohbmopenscience@gmail.com
-</p>
-
-## Open Mics
-
-This year, we introduce a new format at the OSR: the Open Mics session. In this session, participants from all levels are welcomed to have a 5-minute time slot, **from 10:30-11:00 am and from 12:45-13:15 pm on June 25th (Tue.)**, during which they can express or share what their thoughts on Open Science with the community. It is a good place to promote your software, your research, your ideas, or even your opinions related to Open Science. There will be no Q&A time after each presentation, but we encourage everyone interested to approach the speaker and initiate a conversation. We hope this format allow people to share thoughts and ideas that are less polished but could be worthwhile for the community to know, to think about, or even to contribute. 
-
-If you are interested in participating, either virtual or in-person, please fill out <a href="https://forms.office.com/r/LajtFajja2">this form</a>. The presentation will be planned on a first-come-first-serve basis. The host will call your name when you are the next to present and control the presentation time. For more information, please click <a href="https://ohbm.github.io/osr2024/openmic/">here</a>.
+</p> -->
 
 ## Panel Discussion Self-Nominations
 
-The submission for panel self-nomination is closed for 2024!
+The submission for panel self-nomination will be open soon for 2025!
 
 <!-- <p align="justify">
 **Panel Sessions** are moderated discussions amongst selected speakers and OSR attendees about various relevant topics, spanning across all aspects of open science practices.
@@ -51,7 +45,7 @@ After this date, the nominations will be reviewed by the OSR team based on the e
 
 ## Emergent Session Submissions
 
-The submission for emergent session is closed for 2024!
+The submission for emergent session will be open soon for 2025!
 
 <!-- {::options parse_block_html="false" /}
 {::options parse_block_html="true" /}
