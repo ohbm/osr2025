@@ -123,9 +123,9 @@ At this panel discussion, we wil:
   3. Provide best practices for inclusive, international collaboration with flat hierarchies and democratic decision making.
 
 <br/>
+
 <!-- <html>
 <div class="panel-speakers" id="panel2"></div> -->
-
 <!-- <script>
 document.getElementById("open-publishing-panel").innerHTML = displayPanel("Open Publishing");
 </script>
@@ -146,9 +146,9 @@ This panel discussion will:
   2. Stimulate critical thinking on how open science principles, including reproducibility, can be implemented inclusively in AI-driven neuroimaging research, addressing both financial and accessibility challenges.
   3. Explore the role of biological neural networks in enhancing the efficiency of machine learning models, encouraging discussions on how biological systems can inspire advancements in AI and neuroimaging applications.
 <br>
+
 <!-- <html>
 <div class="panel-speakers" id="panel5"></div> -->
-
 <!-- <script>
 document.getElementById("social-bias-panel").innerHTML = displayPanel("Social Bias");
 </script>

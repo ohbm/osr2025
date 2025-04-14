@@ -33,7 +33,7 @@ You can self-nominate as a speaker for the following **hybrid panel discussions*
 <!-- **We will release the form for self-nomination as a panelist soon!** -->
 <!-- **You can self-nominate as a panelist until May 15th (11:59pm anywhere on Earth) through this [form](https://forms.office.com/r/pBYUbr5bEg){:target="_blank"}.**<br> <br>
 After this date, the nominations will be reviewed by the OSR team based on the experience in the topic and a diversity of speakers, and we will notify the self-nominees in early June. <br>  -->
-</p>
+
 <!-- {::options parse_block_html="false" /} -->
 
 ## Emergent Session Submissions

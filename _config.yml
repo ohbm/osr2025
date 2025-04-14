@@ -28,7 +28,6 @@ navbar-links:
     #- Sponsors: "sponsors"
   OSSIG: "https://ossig.netlify.app/"
   Program:
-    - Self-Nominations: "submit"
     - Schedule: "schedule"
     #- Schedule: "schedule-PLACEHOLDER"
     - Panels: "panel"
@@ -36,7 +35,7 @@ navbar-links:
     - Table Talks: "tabletalk"
     # - Open Mics: "openmic"
     - Symposium: "symposium"
-    - Educational: "educational"
+    # - Educational: "educational"
   Register: "register"
   Submit: "submit"
   Volunteering: 

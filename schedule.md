@@ -5,201 +5,207 @@ title: Schedule
 
 <div class="schedule-days">
   <div id="day-06-24" class="schedule-day active" onclick="showScheduleForDay('06-24')">June 24</div>
-  <div id="day-06-25" class="schedule-day" onclick="showScheduleForDay('06-25')">June 25</div>
+  <div id="day-06-25" class="schedule-daye" onclick="showScheduleForDay('06-25')">June 25</div>
   <div id="day-06-26" class="schedule-day" onclick="showScheduleForDay('06-26')">June 26</div>
   <div id="day-06-27" class="schedule-day" onclick="showScheduleForDay('06-27')">June 27</div>
+  <div id="day-06-28" class="schedule-day" onclick="showScheduleForDay('06-28')">June 28</div>
 </div>
 
 <h5 style="text-align: center;">
-GMT+9
+GMT+10
 </h5>
 
-## Coming soon!
+<!-- ## Coming soon!
 Meanwhile, please find the information in the following sections:
 * [Panel Discussions](/panel.md)
 * [Table Talk](/tabletalk.md)
 * [Emergent Sessions](/emergent.md)
 * [Symposium](/symposium.md)
-* [Educational Courses](/educational.md)
+* [Educational Courses](/educational.md) -->
 
-<!-- <div id="schedule-06-24" class="schedule-block">
-    <h4>June 24, Monday</h4>
+<div id="schedule-06-24" class="schedule-block">
+    <h4>June 24, Tuesday</h4>
     <div class="schedule-content">
         <table class="osr-schedule">
             <tr>
-                <td><b>GMT+9</b></td>
+                <td><b>GMT+10</b></td>
+                <td><b>EDUCATIONAL COURSES</b></td>
+            </tr>
+            <tr>
+                <td>9:00-13:00</td>
+                <td>
+                    <div>Maximizing scientific efficiency through sustainability,reproducibility, and FAIRness </div>
+                    <!-- <div><a href="https://www.crowdcast.io/c/panel-1-bills" target="_blank">Join on Crowdcast</a></div> -->
+                </td>
+            </tr>
+        </table>
+    </div>
+</div>
+
+<div id="schedule-06-25" class="schedule-block">
+    <h4>June 25, Wednesday</h4>
+    <div class="schedule-content">
+        <table class="osr-schedule">
+            <tr>
+                <td><b>GMT+10</b></td>
                 <td><b>OPEN SCIENCE ROOM</b></td>
             </tr>
             <tr>
-                <td>9:00-10:00</td>
+                <td>8:00-9:00</td>
                 <td>
-                    <div><a href="https://ohbm.github.io/osr2024/panel/" target="_blank">Panel 1:</a> Open Science - Who pays the bill?  </div>
-                    <div><a href="https://www.crowdcast.io/c/panel-1-bills" target="_blank">Join on Crowdcast</a></div>
+                    <div><a href="https://ohbm.github.io/osr2025/panel/" target="_blank">OSR Round Table:</a> Open Science Room Opening ft. BIDS Annual Updates  </div>
+                    <!-- <div><a href="https://www.crowdcast.io/c/panel-1-bills" target="_blank">Join on Crowdcast</a></div> -->
                 </td>
             </tr>
             <tr>
-                <td>11:30-12:30</td>
+                <td>9:15-10:15</td>
                 <td>
-                    <div><a href="https://ohbm.github.io/osr2024/tabletalk/" target="_blank">Table Talk 1:</a> Open Science - Who pays the bill?</div>
-                    <div><a href="https://www.crowdcast.io/e/osr-2023-emergent-1" target="_blank">Join on Crowdcast</a></div>
+                    <div><a href="https://ohbm.github.io/osr2025/emergent/" target="_blank">Emergent Session 1</a> </div>
+                    <!-- <div><a href="https://www.crowdcast.io/e/osr-2025-emergent-1" target="_blank">Join on Crowdcast</a></div> -->
                 </td>
             </tr>
             <tr>
                 <td>12:45-13:45</td>
                 <td>
-                    <div><a href="https://ohbm.github.io/osr2024/emergent/" target="_blank">Emergent Session 1:</a> The interplay between brain, behavior, and cognition from childhood to adulthood: Panel discussion with independent research groups on simulated datasets</div>
-                    <div><a href="https://www.crowdcast.io/c/osr-2024-emergent-1" target="_blank">Join on Crowdcast</a></div>
-                </td>
-            </tr>
-            <tr>
-                <td>15:15-16:30</td>
-                <td>
-                    <div><a href="https://ohbm.github.io/osr2024/symposium/" target="_blank">OSR OSSIG Symposium:</a> Creating and using representative Big Open datasets: global challenges and promises</div>
+                    <div><a href="https://ohbm.github.io/osr2025/tabletalk/" target="_blank">Table Talk 1:</a> Incentives for Open Science</div>
+                    <!-- <div><a href="https://www.crowdcast.io/c/osr-2025-emergent-1" target="_blank">Join on Crowdcast</a></div> -->
                 </td>
             </tr>
             <tr>
                 <td>17:45-18:45</td>
                 <td>
-                    <div><a href="https://ohbm.github.io/osr2024/emergent/" target="_blank">Emergent Session 2:</a> Measuring and reducing the carbon emissions of fMRI research computing</div>
-                    <div><a href="https://www.crowdcast.io/c/osr-2024-emergent-2" target="_blank">Join on Crowdcast</a></div>
+                    <div><a href="https://ohbm.github.io/osr2025/emergent/" target="_blank">Emergent Session 2</a> </div>
+                    <!-- <div><a href="https://www.crowdcast.io/c/osr-2025-emergent-1" target="_blank">Join on Crowdcast</a></div> -->
                 </td>
             </tr>
         </table>
     </div>
-</div> -->
+</div>
 
-<!-- <div id="schedule-06-25" class="schedule-block">
-    <h4>June 25, Tuesday</h4>
+<div id="schedule-06-26" class="schedule-block">
+    <h4>June 26, Thursday</h4>
     <div class="schedule-content">
         <table class="osr-schedule">
             <tr>
-                <td><b>GMT+9</b></td>
+                <td><b>GMT+10</b></td>
                 <td><b>OPEN SCIENCE ROOM</b></td>
             </tr>
             <tr>
-                <td>9:00-10:00</td>
+                <td>8:00-9:00</td>
                 <td>
-                    <div><a href="https://ohbm.github.io/osr2024/panel/" target="_blank">Panel 2:</a> Getting Started in Open Science</div>
-                    <div><a href="https://www.crowdcast.io/c/panel-2-start" target="_blank">Join on Crowdcast</a></div>
+                    <div><a href="https://ohbm.github.io/osr2025/panel/" target="_blank">OSR Cross-Societies Panel:</a> Scientific Communities, pt. 2: open tools for open (neuro)imaging</div>
+                    <!-- <div><a href="https://www.crowdcast.io/c/panel-2-start" target="_blank">Join on Crowdcast</a></div> -->
                 </td>
             </tr>
             <tr>
-                <td>10:30-11:00</td>
+                <td>9:15-10:15</td>
                 <td>
-                    <div><a href="https://ohbm.github.io/osr2024/openmic/" target="_blank">Open Mics:</a> First half</div>
-                    <div><a href="https://www.crowdcast.io/c/osr-2024-openmic-1" target="_blank">Join on Crowdcast</a></div>
-                </td>
-            </tr>
-            <tr>
-                <td>11:45-12:45</td>
-                <td>
-                    <div><a href="https://ohbm.github.io/osr2023/tabletalk/" target="_blank">Table Talk 2:</a> Getting Started in Open Science</div>
-                    <div><a href="https://www.crowdcast.io/e/osr-2023-emergent-2" target="_blank">Join on Crowdcast</a></div>
-                </td>
-            </tr>
-            <tr>
-                <td>12:45-13:15</td>
-                <td>
-                    <div><a href="https://ohbm.github.io/osr2024/openmic/" target="_blank">Open Mics:</a> Second half</div>
-                    <div><a href="https://www.crowdcast.io/c/osr-2024-openmic-2" target="_blank">Join on Crowdcast</a></div>
-                </td>
-            </tr>
-            <tr>
-                <td>13:30-14:30</td>
-                <td>
-                    <div><a href="https://ohbm.github.io/osr2024/panel/" target="_blank">Panel 3:</a> Many A Little Makes A Mickle - Crowdsourcing for brain mapping</div>
-                    <div><a href="https://www.crowdcast.io/c/panel-3-crowdsource" target="_blank">Join on Crowdcast</a></div>
-                </td>
-            </tr>
-            <tr>
-                <td>16:00-17:00</td>
-                <td>
-                    <div><a href="https://ohbm.github.io/osr2024/tabletalk/" target="_blank">Table Talk 3:</a> Many A Little Makes A Mickle - Crowdsourcing for brain mapping</div>
-                    <div><a href="https://www.crowdcast.io/e/osr-2023-emergent-3" target="_blank">Join on Crowdcast</a></div>
-                </td>
-            </tr>
-        </table>
-    </div>
-</div> -->
-
-<!-- <div id="schedule-06-26" class="schedule-block">
-    <h4>June 26, Wednesday</h4>
-    <div class="schedule-content">
-        <table class="osr-schedule">
-            <tr>
-                <td><b>GMT+9</b></td>
-                <td><b>OPEN SCIENCE ROOM</b></td>
-            </tr>
-            <tr>
-                <td>9:00-10:00</td>
-                <td>
-                    <div><a href="https://ohbm.github.io/osr2024/emergent/" target="_blank">Emergent Session 3:</a> As open as possible and as closed as necessary - revisited</div>
-                    <div><a href="https://www.crowdcast.io/c/osr-2024-emergent-3" target="_blank">Join on Crowdcast</a></div>
-                </td>
-            </tr>
-            <tr>
-                <td>11:15-12:30</td>
-                <td>
-                    <div><a href="https://ohbm.github.io/osr2024/panel/" target="_blank">Panel 4:</a> The changing face of Open Science</div>
-                    <div><a href="https://www.crowdcast.io/c/panel-4-changing" target="_blank">Join on Crowdcast</a></div>
-                </td>
-            </tr>
-            <tr>
-                <td>13:00-14:00</td>
-                <td>
-                    <div><a href="https://ohbm.github.io/osr2024/tabletalk/" target="_blank">Table Talk 4:</a> The changing face of Open Science</div>
-                    <div><a href="https://www.crowdcast.io/e/osr-table-data-governance" target="_blank">Join on Crowdcast</a></div>
-                </td>
-            </tr>
-            <tr>
-                <td>15:45-16:45</td>
-                <td>
-                    <div><a href="https://ohbm.github.io/osr2024/emergent/" target="_blank">Emergent Session 4:</a> What can generalist repositories do for you? A community feedback gathering session from the NIH Generalist Repository Ecosystem Initiative program</div>
-                    <div><a href="https://www.crowdcast.io/c/osr-2024-emergent-4" target="_blank">Join on Crowdcast</a></div>
-                </td>
-            </tr>
-        </table>
-    </div>
-</div> -->
-
-<!-- <div id="schedule-06-27" class="schedule-block">
-    <h4>June 27, Thursday</h4>
-    <div class="schedule-content">   
-        <table class="osr-schedule">
-            <tr>
-                <td><b>GMT+9</b></td>
-                <td><b>OPEN SCIENCE ROOM</b></td>
-            </tr>
-            <tr>
-                <td>9:00-10:00</td>
-                <td>
-                    <div><a href="https://ohbm.github.io/osr2024/panel/" target="_blank">Panel 5:</a> Open Science in Asia/Korea</div>
-                    <div><a href="https://www.crowdcast.io/c/panel-5-asia" target="_blank">Join on Crowdcast</a></div>
+                    <div><a href="https://ohbm.github.io/osr2025/emergent/" target="_blank">Emergent Session 3</a> </div>
+                    <!-- <div><a href="https://www.crowdcast.io/c/osr-2025-openmic-1" target="_blank">Join on Crowdcast</a></div> -->
                 </td>
             </tr>
             <tr>
                 <td>11:30-12:30</td>
                 <td>
-                    <div><a href="https://ohbm.github.io/osr2024/tabletalk/" target="_blank">Table Talk 5:</a> Open Science in Asia/Korea</div>
-                    <a href="https://www.crowdcast.io/e/osr-table-data-reuse" target="_blank">Join on Crowdcast</a></div>
+                    <div><a href="https://ohbm.github.io/osr2025/emergent/" target="_blank">Emergent Session 4</a> </div>
+                    <!-- <div><a href="https://www.crowdcast.io/e/osr-2025-emergent-2" target="_blank">Join on Crowdcast</a></div> -->
                 </td>
             </tr>
             <tr>
                 <td>13:00-14:00</td>
                 <td>
-                    <div><a href="https://ohbm.github.io/osr2024/emergent/" target="_blank">Emergent Session 5:</a> Enabling federated analysis using NVIDIA FLARE powered COINSTAC architecture and showcase new algorithms</div>
-                    <div><a href="https://www.crowdcast.io/c/osr-2024-emergent-5" target="_blank">Join on Crowdcast</a></div>
+                    <div><a href="https://ohbm.github.io/osr2025/tabletalk/" target="_blank">Table Talk 2:</a> What's Next for Open Science SIG?</div>
+                    <!-- <div><a href="https://www.crowdcast.io/c/osr-2025-openmic-2" target="_blank">Join on Crowdcast</a></div> -->
+                </td>
+            </tr>
+            <tr>
+                <td>16:00-17:00</td>
+                <td>
+                    <div><a href="https://ohbm.github.io/osr2025/tabletalk/" target="_blank">Table Talk 3:</a> Ethical Issues in Open Science: How Open should Open Data be?</div>
+                    <!-- <div><a href="https://www.crowdcast.io/c/panel-3-crowdsource" target="_blank">Join on Crowdcast</a></div> -->
                 </td>
             </tr>
         </table>
     </div>
-</div> -->
+</div>
+
+<div id="schedule-06-27" class="schedule-block">
+    <h4>June 27, Friday</h4>
+    <div class="schedule-content">
+        <table class="osr-schedule">
+            <tr>
+                <td><b>GMT+10</b></td>
+                <td><b>OPEN SCIENCE ROOM</b></td>
+            </tr>
+            <tr>
+                <td>8:00-9:00</td>
+                <td>
+                    <div><a href="https://ohbm.github.io/osr2025/tabletalk/" target="_blank">Table Talk 4:</a> Recommended Practices in Open Science</div>
+                    <!-- <div><a href="https://www.crowdcast.io/c/osr-2025-emergent-3" target="_blank">Join on Crowdcast</a></div> -->
+                </td>
+            </tr>
+            <tr>
+                <td>9:15-10:15</td>
+                <td>
+                    <div><a href="https://ohbm.github.io/osr2025/emergent/" target="_blank">Emergent Session 5</a> </div>
+                    <!-- <div><a href="https://www.crowdcast.io/c/panel-4-changing" target="_blank">Join on Crowdcast</a></div> -->
+                </td>
+            </tr>
+            <tr>
+                <td>11:30-12:30</td>
+                <td>
+                    <div><a href="https://ohbm.github.io/osr2025/tabletalk/" target="_blank">Emergent Session 6</a> </div>
+                    <!-- <div><a href="https://www.crowdcast.io/e/osr-table-data-governance" target="_blank">Join on Crowdcast</a></div> -->
+                </td>
+            </tr>
+            <tr>
+                <td>13:00-14:00</td>
+                <td>
+                    <div><a href="https://ohbm.github.io/osr2025/panel/" target="_blank">OSR Panel:</a> Harnessing AI and Biological Systems for Advancing Neuroimaging and Biomedical Research</div>
+                    <!-- <div><a href="https://www.crowdcast.io/c/osr-2025-emergent-4" target="_blank">Join on Crowdcast</a></div> -->
+                </td>
+            </tr>
+            <tr>
+                <td>15:45-16:45</td>
+                <td>
+                    <div><a href="https://ohbm.github.io/osr2025/symposium/" target="_blank">OSR Symposium:</a> Share it all: challenges in reproducibility from data acquisition to management and analysis</div>
+                </td>
+            </tr>
+        </table>
+    </div>
+</div>
+
+<div id="schedule-06-28" class="schedule-block">
+    <h4>June 28, Saturday</h4>
+    <div class="schedule-content">   
+        <table class="osr-schedule">
+            <tr>
+                <td><b>GMT+10</b></td>
+                <td><b>OPEN SCIENCE ROOM</b></td>
+            </tr>
+            <tr>
+                <td>11:30-12:30</td>
+                <td>
+                    <div><a href="https://ohbm.github.io/osr2025/emergent/" target="_blank">Emergent Session 7</a> </div>
+                    <!-- <div><a href="https://www.crowdcast.io/c/panel-5-asia" target="_blank">Join on Crowdcast</a></div> -->
+                </td>
+            </tr>
+            <tr>
+                <td>13:00-14:00</td>
+                <td>
+                    <div><a href="https://ohbm.github.io/osr2024/tabletalk/" target="_blank">Table Talk 5:</a> Data governance/infrastructure for Open Datasets</div>
+                    <!-- <div><a href="https://www.crowdcast.io/e/osr-table-data-reuse" target="_blank">Join on Crowdcast</a></div> -->
+                </td>
+            </tr>
+        </table>
+    </div>
+</div>
 
 <div class="schedule-leave-space-before-footer">
 </div>
 
 <script>
-const ALL_DAYS = ["06-24", "06-25", "06-26", "06-27"];
+const ALL_DAYS = ["06-24", "06-25", "06-26", "06-27", "06-28"];
 
 function setupActiveDayTab(activeDay) {
     /* First, remove the "active" classname for all tabs */
