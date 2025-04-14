@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Emergent Sessions and more
+title: Emergent Sessions
 ---
 
 ### OHBM OSR 2025 will have 7 emergent session. See available time slots below.
