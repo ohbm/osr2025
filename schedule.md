@@ -5,7 +5,7 @@ title: Schedule
 
 <div class="schedule-days">
   <div id="day-06-24" class="schedule-day active" onclick="showScheduleForDay('06-24')">June 24</div>
-  <div id="day-06-25" class="schedule-daye" onclick="showScheduleForDay('06-25')">June 25</div>
+  <div id="day-06-25" class="schedule-day" onclick="showScheduleForDay('06-25')">June 25</div>
   <div id="day-06-26" class="schedule-day" onclick="showScheduleForDay('06-26')">June 26</div>
   <div id="day-06-27" class="schedule-day" onclick="showScheduleForDay('06-27')">June 27</div>
   <div id="day-06-28" class="schedule-day" onclick="showScheduleForDay('06-28')">June 28</div>
