@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Panels
+title: Panels and Round Tables
 ---
 
 <html>
@@ -78,37 +78,38 @@ function displayPanel(panelName) {
 The OSR has always been a place to learn and share experiences.
 This year we are centering these experiences around themes which are undergoing rapid change in our discipline. 
 
-For each panel discussion session, we are looking for 1-2 self-nominated panelists. 
-Registration will be open soon!
+This year, we are featuring 1 round tables and 2 panels.
+
+<!-- For each panel discussion session, we are looking for 1-2 self-nominated panelists. 
+Registration will be open soon! -->
 <!-- **If you are interested in joining as a panelist and would like to self-nominate, please self-register <a href="https://forms.office.com/r/pBYUbr5bEg" target="_blank">here</a>!** <br> -->
 
-## Topic 1: Open Science Room Opening ft. BIDS annual updates
-<!-- #### <a href="https://www.crowdcast.io/c/panel-1-bills" target="_blank"> Join on Crowdcast</a> 
-When: 9:00 GMT+9 | June 24, 2024 (Monday) <br/>
+## OSR Round Table: Open Science Room Opening ft. BIDS annual updates
+<!-- #### <a href="https://www.crowdcast.io/c/panel-1-bills" target="_blank"> Join on Crowdcast</a>  -->
+When: 8:00 GMT+10 | June 25, 2025 (Wednesday) <br/>
 <br/>
-<div>
+<!-- <div>
 <img src="../img/Panel1-speakers.png" alt = "panel1" width="100%" style="margin:10px 10px;">
 </div> -->
 With a growing interest in Open Science in the OHBM community, this session will introduce Open Science Room (OSR) events during OHBM 2025 with the current progress of the Open Science Special Interest Group (OSSIG) and the working group of an Open Science Tool that is widely used by the OHBM community; this year, we are featuring the Brain Imaging Data Structure (BIDS). This session aims to bring people’s attention to the Open Science initiative at OHBM. This opening session helps us bring awareness of our progress and expand the Open Science community beyond the North American and European networks. Such expansion will lead to a more diverse community and make Open Science practices more inclusive. We will address the current progress of OSR and OSSIG and welcome feedback from the community for future planning. By partnering with the BIDS team, we aim to reach out to the broader users and developers community of Open Science. A Q&A session at the end will foster interactive discussions with the broad Open Science community at OHBM. 
 <br><br>
 
-This panel will:
+This round table will:
   1. Provide updates and awareness of the Open Science Room and the Open Science Special Interest Group
   2. Provide annual updates on the development of the Brain Imaging Data Structure (BIDS) tools
 <br/>
 
-<html>
+<!-- <html>
 <div class="panel-speakers" id="panel1"></div>
-
 <script>
 document.getElementById("open-science-panel").innerHTML = displayPanel("Open Science");
 </script>
-</html>
+</html> -->
 
-## Topic 2: The role of scientific communities, pt. 2: open tools for open (neuro)imaging.
-<!-- #### <a href="https://www.crowdcast.io/c/panel-2-start" target="_blank">Join on Crowdcast</a> 
-When: 9:00 GMT+9 | June 25, 2024 (Tuesday) <br/>
-<p>
+## OSR Cross-Societies Panel: The role of scientific communities, pt. 2: open tools for open (neuro)imaging.
+<!-- #### <a href="https://www.crowdcast.io/c/panel-2-start" target="_blank">Join on Crowdcast</a>  -->
+When: 8:00 GMT+10 | June 26, 2025 (Thursday) <br/>
+<!-- <p>
 <img src="../img/Panel2-speakers.png" alt = "panel2" width="100%" style="margin:10px 10px;">
 </p> -->
 <br/>
@@ -122,18 +123,18 @@ At this panel discussion, we wil:
   3. Provide best practices for inclusive, international collaboration with flat hierarchies and democratic decision making.
 
 <br/>
-<html>
-<div class="panel-speakers" id="panel2"></div>
+<!-- <html>
+<div class="panel-speakers" id="panel2"></div> -->
 
-<script>
+<!-- <script>
 document.getElementById("open-publishing-panel").innerHTML = displayPanel("Open Publishing");
 </script>
-</html>
+</html> -->
 
-## Topic 3: Harnessing AI and Biological Systems for Advancing Neuroimaging and Biomedical Research
-<!-- #### <a href="https://www.crowdcast.io/c/panel-3-crowdsource" target="_blank"> Join on Crowdcast </a> 
-When: 13:30 GMT+9 | June 25, 2024 (Tuesday) <br/>
-<p>
+## OSR Panel: Harnessing AI and Biological Systems for Advancing Neuroimaging and Biomedical Research
+<!-- #### <a href="https://www.crowdcast.io/c/panel-3-crowdsource" target="_blank"> Join on Crowdcast </a>  -->
+When: 13:00 GMT+10 | June 27, 2025 (Friday) <br/>
+<!-- <p>
 <img src="../img/Panel3-speakers.png" alt = "panel3" width="100%" style="margin:10px 10px;">
 </p> -->
 <br/>
@@ -145,33 +146,10 @@ This panel discussion will:
   2. Stimulate critical thinking on how open science principles, including reproducibility, can be implemented inclusively in AI-driven neuroimaging research, addressing both financial and accessibility challenges.
   3. Explore the role of biological neural networks in enhancing the efficiency of machine learning models, encouraging discussions on how biological systems can inspire advancements in AI and neuroimaging applications.
 <br>
-<html>
-<div class="panel-speakers" id="panel5"></div>
+<!-- <html>
+<div class="panel-speakers" id="panel5"></div> -->
 
-<script>
+<!-- <script>
 document.getElementById("social-bias-panel").innerHTML = displayPanel("Social Bias");
 </script>
-</html>
-
-## Topic 4: Introducing the OSSIG Reproducibility Challenge - results of and insight from the 2025 pilot
-<!-- #### <a href="https://www.crowdcast.io/c/panel-4-changing" target="_blank"> Join on Crowdcast </a> 
-When: 11:15 GMT+9 | June 26, 2024 (Wednesday) <br/>
-<p>
-<img src="../img/Panel4-speakers.png" alt = "panel4" width="100%" style="margin:10px 10px;">
-</p> -->
-<br/>
-Under the requests of many journals and funding bodies, we are invited more and more to make our science open and reproducible. But did we achieve the point in which we can say that all the science we present at OHBM is reproducible, or are there issues that still need to be overcome?
-OHBM already recognizes the effort of reproducing science through the Replication Award, and with this reproducibility challenge, the OSSIG aims to bring back the spotlight to original authors who excelled at making their science open and reproducible.
-In this session, we will introduce this initiative, inspired by the ISMRM reproducibility challenge. We will ask the challengers to present their achievements in undertaking the pilot edition of the OSSIG reproducible challenge and reflect on the obstacles that they had to overcome. We will then discuss how to improve the OSSIG reproducibility challenge initiative for future editions.
-<br><br>
-You didn’t partake in the challenge, and you wonder if you can attend this session? 
-Fear not - This session is open to everyone interested in reproducible science!
-More information about the OSSIG reproducibility challenge at https://ossig.netlify.app/challenge/
-<br><br>
-<html>
-<div class="panel-speakers" id="panel3"></div>
-
-<script>
-document.getElementById("open-code-panel").innerHTML = displayPanel("Open Code");
-</script>
-</html>
+</html> -->

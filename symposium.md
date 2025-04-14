@@ -4,8 +4,8 @@ title: Open Science Symposium
 ---
 
 ## Share it all: challenges in reproducibility from data acquisition to management and analysis 
-<!-- #### WHEN: 15:15-16:30 (GMT+9), June 24 (Monday)
-#### LOCATION: Hall D 2 -->
+#### WHEN: 15:45-17:00 (GMT+10), June 27 (Friday)
+#### LOCATION: M4
 
 Under the requests of many journals and funding bodies, our science is becoming more and more open and reproducible. With the increased adoption of open scientific practices, new challenges emerge, from cultural and ethical issues to practical issues in dealing with those steps of our scientific journey that are still not open or not completely reproducible.
 Making our science open can be time consuming and requires skills that might not be part of our academic curricula yet - and that adds to the challenges of junior and early career researchers. Data availability and accessibility are fundamental principles to reproducible science but they clash against national and international legislation on data protection and the equally fundamental principle of individuals’ protection.
@@ -19,7 +19,7 @@ These are the topics that we will address in this symposium, organised by the Op
 
 ### Featured Talks: 
 ## Breaking Barriers: A Practical Guide to Thriving as Open Scientists in Neuroimaging
-#### Speaker: Yu-fang Yang 
+#### Speaker: TBD
 
 <br>Navigating the complexities of academia as open scientists demands more than mastering reproducible workflows and open tools; it requires resilience in the face of systemic barriers and a steadfast commitment to fostering transparency
 This talk offers a pragmatic guide tailored for Early Career Researchers, addressing challenges in neuroimaging research (fMRI and EEG) and the adoption of open science practices.
