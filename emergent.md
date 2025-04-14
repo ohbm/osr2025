@@ -8,14 +8,6 @@ title: Emergent Sessions and more
 {::options parse_block_html="true" /}
 
 <div id='emergent'></div>
-<br/>
-<br/>
-<h2>Introductions to Emergent Sessions</h2>
-
-{% include youtubePlayer.html id="hJ6i2jUQlnQ" %}
-<p align="justify">**What are Emergent Sessions?**</p>
-<p align="justify"> Emergent Sessions are spontaneous and interactive hot topic talks hosted by OSR attendees. Emergent sessions may last from 30 minutes to one hour (ideally 30 minutes planned talk and 30 minutes discussion). The duration will be set by the participant organizer, or it will run for as long as the conversation is flowing. Emergent Sessions can be framed as conversations held in an open format among peers. These sessions may be used to invite contributions to collaborative projects, hold an open forum to discuss a development in existing projects, hold a panel discussion, or basically anything you would like!</p>
-
 <p align="justify">**Emergent Sessions** are [available via application with limited slots](/submit.md){:target="_blank"}.</p>
 
 <p align="justify">**How do I host an Emergent Session?**</p>
@@ -149,5 +141,15 @@ We would like to hear feedback about our software such as how to improve the exp
 <!-- --- -->
 
 
+{::options parse_block_html="true" /}
+
+<div id='emergent'></div>
+<h2>Introductions to Emergent Sessions</h2>
+
+{% include youtubePlayer.html id="hJ6i2jUQlnQ" %}
+<p align="justify">**What are Emergent Sessions?**</p>
+<p align="justify"> Emergent Sessions are spontaneous and interactive hot topic talks hosted by OSR attendees. Emergent sessions may last from 30 minutes to one hour (ideally 30 minutes planned talk and 30 minutes discussion). The duration will be set by the participant organizer, or it will run for as long as the conversation is flowing. Emergent Sessions can be framed as conversations held in an open format among peers. These sessions may be used to invite contributions to collaborative projects, hold an open forum to discuss a development in existing projects, hold a panel discussion, or basically anything you would like!</p>
+
+{::options parse_block_html="false" /}
 
 
