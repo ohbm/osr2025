@@ -38,5 +38,8 @@ Commit the new directories and push the site. This must be done every time the C
 + If `bundle exect` error out, do the following things:
 
     1. Create Gemfile
-    2. Run `bundel install`
+    2. Follow the errors and add all required dependencies
+    3. Run `bundel install`
+
+
 
