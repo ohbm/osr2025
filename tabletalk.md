@@ -11,7 +11,7 @@ This year, we will feature 5 table talks covering different topics of Open Scien
 
 #### Table Talk 1: Incentives for Open Science
 WHEN: 12:45 (GMT+10), June 25 (Wednesday)  <br>
-Featured Experts: Andrew Zalesky, Ph.D. and TBD <br>
+Featured Experts: Andrew Zalesky, Ph.D., Annabel Chen, Ph.D., and Elvisha Dhamala, Ph.D. <br>
 <!-- [Join on Crowdcast](https://www.crowdcast.io/e/osr-table-telehealth) -->
 
 Brain imaging research has benefited from Open Science practices in data sharing and tools development for standardizing the complex processing steps of neuroimaging data. These collective efforts from the Open Science community have enhanced the reliability, generalizability, and ultimately clinical translatability of brain-behavior findings. However, with limited recognition and supporting resources, many teams that govern the open datasets and that maintain the open tools have struggled to provide sustainable services to the broad research community. In addition, the open science community, especially early-career researchers, has started to raise concerns regarding the incentives in the Open Science practices considering the incommensurate payoff in career development for the invested time and effort. 
@@ -35,7 +35,7 @@ This round table talk recognizes the necessity of community feedback and thus th
 
 #### Table Talk 3: Ethical Issues in Open Science: How Open should Open Data be?
 WHEN: 16:00 (GMT+10), June 26 (Thursday)  <br>
-Featured Experts: TBD <br>
+Featured Experts: Damian O. Eke, Ph.D., and TBD <br>
 <!-- [Join on Crowdcast](https://www.crowdcast.io/e/osr-table-data-governance) -->
 
 Ethics surrounding open data include numerous stakeholders, from clinicians, individual researchers generating data, researchers accessing shared data, data curators, universities/institutes, governing bodies, and the individuals the data are collected from. On top of these entities, there is an additional layer of geography that brings in cultural/societal influences about what data and with whom data can be shared. The multiplicity of perspectives cannot be adequately presented in a panel, and in such a varied landscape, the egalitarian format of a round table would encourage the diversity of shared perspectives. It is important to get a diverse array of perspectives because while the contexts in which we create sharable data are different, the data serves a common purpose to help further our understanding of the human brain. It is understandable that researchers look at this complex landscape and conclude the safe ethical course of action is to keep the data local and not share it for fear of privacy/legal challenges or other potential consequences. However, not sharing data also has the ethical consequence of inhibiting scientific progress. 
@@ -47,7 +47,7 @@ As in many dilemmas, there is no free lunch, but in a round table discussion, th
 
 #### Table Talk 4: Recommended Practices in Open Science
 WHEN: 08:00 (GMT+10), June 27 (Friday) <br>
-Featured Experts: Thomas Yeo, Ph.D. & Elise Rowe, Ph.D.<br>
+Featured Experts: Thomas Yeo, Ph.D., Elise Rowe, Ph.D., & Golia Shafiei, Ph.D.<br>
 <!-- [Join on Crowdcast](https://www.crowdcast.io/e/osr-table-data-reuse) -->
 
 The open science movement, driven by a collective recognition of the need for transparency and reproducibility in scientific research, has gained momentum in recent years across multiple disciplines. As neuroscience and neuroimaging research continue to evolve, it is essential to equip the next generation of researchers with the skills necessary to embrace these practices. This Round Table is especially timely, given the increasing mandates from institutions and funding agencies for open data sharing and collaborative research initiatives. Addressing this topic now offers an opportunity to guide trainees in adopting open science methodologies early in their careers, and to foster a culture of openness and collaboration that will benefit the field as a whole. 
@@ -56,7 +56,7 @@ Participants are expected to gain a deeper understanding of open science princip
 
 #### Table Talk 5: Data governance/infrastructure for Open Datasets
 WHEN: 13:00 (GMT+10), June 28 (Saturday)  <br>
-Feature Experts: TBD <br>
+Feature Experts: Deanna Barch, Ph.D., Xinian Zuo, Ph.D., and TBD<br>
 <!-- [Join on Crowdcast](https://www.crowdcast.io/e/osr-table-standardization) -->
 
 Data governance impacts science globally and locally. Global because we want to share data internationally in a responsible manner, and local because we want to respect local laws and guidelines in every location where the data is stored/shared. These laws and protections have been developed independently across nations, but as we share data between borders we need to identify common pathways that allow the sharing of data while respecting the rights and laws of the individual and the region. The variety of procedures, processes, and frameworks researchers use to share data lends itself to round table discussions where the diversity of experiences can be shared.

@@ -12,7 +12,7 @@ title: Emergent Sessions
 
 <p align="justify">**How do I host an Emergent Session?**</p>
 <p align="justify"> Emergent Sessions are bookable during the meeting for times allocated for Emergent Sessions.
-For 2025, we are opening 7 slots during OHBM.
+For 2025, we are opening 9 slots during OHBM.
 Emergent Sessions can be booked by any OHBM or OSR registered participant at any point during these periods of time (or in the meeting while there is space in the schedule).
 Submitted Emergent requests will be briefly reviewed and selected by the OSR team for appropriate content (taking into account diversity and how the topics fits), and details communicated regarding how to book a slot in our schedule. We will be on hand to manage the hosting and broadcast of your session on your behalf, and help your participants join the conversation.</p>
 

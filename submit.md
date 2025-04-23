@@ -9,7 +9,7 @@ title: Submit
 {::options parse_block_html="false" /}
 {::options parse_block_html="true" /}
 
-This year, we are opening 7 available time slots for you to submit your own **emergent session**. 
+This year, we are opening 9 available time slots for you to submit your own **emergent session**. 
 
 <p align="justify">
   Before starting your submission make sure you are familiar with the [OSR formats](/formats.md){:target="_blank"}.
