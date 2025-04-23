@@ -53,16 +53,15 @@ In the 2024 OSR, we aim to address new and emerging topics in the discipline, al
 Speakers will be selected based on relevancy to the chosen panel topic. Panels typically involve 4 speakers per panel.
 Questions from the audience are encouraged (via chat feature if virtual) and will be transmitted to the panel by the host throughout the session.</p>
 
-<p align="justify">**We are looking for self-nominated panelists on each topic!**</p>
-<p align="justify"> In the 2024 OSR, we featured 5 panel discussions with their respective table talk. These panel sessions include:</p>
+<!-- <p align="justify">**We are looking for self-nominated panelists on each topic!**</p> -->
+<p align="justify"> In the 2025 OSR, we featured 3 panel discussions. These panel sessions include:</p>
 <ol>
-  <li>Open Sience - who pays the bill?</li>
-  <li>Getting Started in Open Science</li>
-  <li>Changing face of Open Scienc</li>
-  <li>Open Science in Asia/Korea</li>
-  <li>Many A Little Makes A Mickle - Crowdsourcing for brain mapping</li>
+  <li>OSR Round Table: Open Science Room Opening ft. BIDS Annual Updates</li>
+  <li>OSR Cross-Societies Panel: Scientific Communities, pt. 2: open tools for open (neuro)imaging</li>
+  <li>OSR Panel: Harnessing AI and Biological Systems for Advancing Neuroimaging and Biomedical Research</li>
 </ol>
-<p align="justify"> If you are interested in joining as a panelist and would like to self-volunteer, please sign up via this [form](https://forms.office.com/r/pBYUbr5bEg), and we will confirm all panelists by May! If you have any question regarding these sessions and the self-nomination, please feel free to contact us at ohbmopenscience@gmail.com.</p>
+<!-- <p align="justify"> If you are interested in joining as a panelist and would like to self-volunteer, please sign up via this [form](https://forms.office.com/r/pBYUbr5bEg), and we will confirm all panelists by May! If you have any question regarding these sessions and the self-nomination, please feel free to contact us at ohbmopenscience@gmail.com.</p> -->
+<p align="justify"> If you have any question regarding these sessions or would like to be featured, please feel free to contact us at ohbmopenscience@gmail.com.</p>
 
 <br/>
 <br/>
@@ -81,6 +80,17 @@ Questions from the audience are encouraged (via chat feature if virtual) and wil
 There will be a moderator from the OSR team, and the panelists of the same topics are warmly invited to join for the table talk. 
 Questions from the audience are encouraged (via chat feature if virtual) and will be transmitted to the panel by the moderator throughout the session.</p>
 
+<p align="justify"> In the 2025 OSR, we featured 5 table talks. These panel sessions include:</p>
+<ol>
+  <li>Incentives for Open Science</li>
+  <li>What’s Next for Open Science SIG?</li>
+  <li>Ethical issues in open science: How open should open data be?</li>
+  <li>Recommended Practices in Open Science</li>
+  <li>Data governance/infrastructure for Open Datasets</li>
+</ol>
+<p align="justify"> If you have any question regarding these sessions or would like to be featured, please feel free to contact us at ohbmopenscience@gmail.com.</p>
+
+
 ---
 
 <div id='emergent'></div>
@@ -95,7 +105,7 @@ Questions from the audience are encouraged (via chat feature if virtual) and wil
 
 <p align="justify">**How do I host an Emergent Session?**</p>
 <p align="justify"> Emergent Sessions are bookable during the meeting for times allocated for Emergent Sessions.
-For 2025 OSR, we are opening 7 slots.
+For 2025 OSR, we are opening 9 slots.
 Emergent Sessions can be booked by any OHBM or OSR registered participant at any point during these periods of time (or in the meeting while there is space in the schedule).
 Submitted Emergent requests will be briefly reviewed and selected by the OSR team for appropriate content (taking into account diversity and how the topics fits), and details communicated regarding how to book a slot in our schedule. We will be on hand to manage the hosting and broadcast of your session on your behalf, and help your participants join the conversation.</p>
 

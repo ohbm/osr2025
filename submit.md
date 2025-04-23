@@ -46,14 +46,16 @@ After this date, the nominations will be reviewed by the OSR team based on the e
 </p>
 <p align="justify">
 During the OSR attendees can hold **hybrid emergent sessions**. <br> 
-This year we offer **7 slots** for application. These time slots are open for registration from now till until the end of the conference:<br>
+This year we offer **9 slots** for application. These time slots are open for registration from now till until the end of the conference:<br>
 **9:15-10:15 (GMT+10) June 25** (Wednesday) : OSR: Emergent Session #1 <br>
-**17:45-18:45 (GMT+10) June 25** (Wednesday) : OSR: Emergent Session #2 <br>
-**9:15-10:15 (GMT+10) June 26** (Thursday) : OSR: Emergent Session #3 <br>
-**11:30-12:30 (GMT+10) June 26** (Thursday) : OSR: Emergent Session #4 <br>
-**9:15-10:15 (GMT+10) June 27** (Friday) : OSR: Emergent Session #5 <br>
-**11:30-12:30 (GMT+10) June 27** (Friday) : OSR: Emergent Session #6 <br>
-**11:30-12:30 (GMT+10) June 28** (Saturday) : OSR: Emergent Session #7 <br>
+**15:30-16:30 (GMT+10) June 25** (Wednesday) : OSR: Emergent Session #2 <br>
+**17:45-18:45 (GMT+10) June 25** (Wednesday) : OSR: Emergent Session #3 <br>
+**9:15-10:15 (GMT+10) June 26** (Thursday) : OSR: Emergent Session #4 <br>
+**11:30-12:30 (GMT+10) June 26** (Thursday) : OSR: Emergent Session #5 <br>
+**9:15-10:15 (GMT+10) June 27** (Friday) : OSR: Emergent Session #6 <br>
+**11:30-12:30 (GMT+10) June 27** (Friday) : OSR: Emergent Session #7 <br>
+**9:15-10:15 (GMT+10) June 28** (Saturday) : OSR: Emergent Session #8 <br>
+**11:30-12:30 (GMT+10) June 28** (Saturday) : OSR: Emergent Session #9 <br>
 <br> 
 **You can request to hold such a session by creating an issue through our github repo [template](https://github.com/ohbm/osr2025/issues/1){:target="_blank"}.**<br> <br>
 The sessions will be reviewed based on their timeliness and interest to the open science audience by the OSR team and we will notify everyone of their assigned sessions in early June. <br> 

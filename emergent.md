@@ -3,7 +3,7 @@ layout: page
 title: Emergent Sessions
 ---
 
-### OHBM OSR 2025 will have 7 emergent session. See available time slots below.
+### OHBM OSR 2025 will have 9 emergent session. See available time slots below.
 
 {::options parse_block_html="true" /}
 
@@ -48,6 +48,13 @@ Neuroimaging has contributed considerably to our understanding of brain developm
 
 ### Emergent Session 2
 
+<!-- #### Neda Sadeghi, Isabelle van der Velpen, and Tonya White, Social and Cognitive Developmental Neuroscience, NIMH -->
+#### 3:30 (GMT+10) June 25 (Wednesday)
+
+---
+
+### Emergent Session 3
+
 <!-- #### SEA-SIG representatives--Nick Souter (University of Sussex), Niall Duncan (Taipei Medical University), Nikhil Bhagwat (McGill University), Polona Kalc (Jena University Hospital) -->
 #### 17:45 (GMT+10) June 25 (Wednesday)
 <!-- [Join on Crowdcast](https://www.crowdcast.io/c/osr-2024-emergent-2) -->
@@ -67,7 +74,7 @@ Speaker Nick Souter will join the session virtually, and Niall Duncan and Nikhil
 
 ---
 
-### Emergent Session 3
+### Emergent Session 4
 
 <!-- #### Gorana Pobric (Manchester, UK), Peter Fox (San Antonio, Texas), David Kennedy (U Massachusetts) -->
 #### 9:15 (GMT+10) June 26 (Thursday)
@@ -78,7 +85,7 @@ The spirit of OS is to reduce obstacles to knowledge, data and tools in an attem
 
 ---
 
-### Emergent Session 4
+### Emergent Session 5
 
 <!-- #### Ana Van Gulick, Figshare, NIH Generalist Repository Ecosystem Initiative program -->
 #### 11:30 (GMT+10) June 26 (Thursday)
@@ -102,7 +109,7 @@ GREI would like to learn from OSR participants about their data sharing and repo
 
 ---
 
-### Emergent Session 5
+### Emergent Session 6
 
 <!-- #### Sandeep Panta, Translational Research in Neuroimaging and Data Science (TReNDS) Center, Georgia State University -->
 #### 9:10 (GMT+10) June 27 (Friday)
@@ -122,7 +129,7 @@ We would like to hear feedback about our software such as how to improve the exp
 
 ---
 
-### Emergent Session 6
+### Emergent Session 7
 
 <!-- #### Sandeep Panta, Translational Research in Neuroimaging and Data Science (TReNDS) Center, Georgia State University -->
 #### 9:15 (GMT+10) June 27 (Friday)
@@ -130,7 +137,15 @@ We would like to hear feedback about our software such as how to improve the exp
 
 ---
 
-### Emergent Session 7
+### Emergent Session 8
+
+<!-- #### Sandeep Panta, Translational Research in Neuroimaging and Data Science (TReNDS) Center, Georgia State University -->
+#### 9:15 (GMT+10) June 28 (Saturday)
+<!-- [Join on Crowdcast](https://www.crowdcast.io/c/osr-2024-emergent-5) -->
+
+---
+
+### Emergent Session 9
 
 <!-- #### Sandeep Panta, Translational Research in Neuroimaging and Data Science (TReNDS) Center, Georgia State University -->
 #### 11:30 (GMT+10) June 28 (Saturday)
