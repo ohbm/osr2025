@@ -207,7 +207,7 @@ Meanwhile, please find the information in the following sections:
             <tr>
                 <td>13:00-14:00</td>
                 <td>
-                    <div><a href="https://ohbm.github.io/osr2024/tabletalk/" target="_blank">Table Talk 5:</a> Data governance/infrastructure for Open Datasets</div>
+                    <div><a href="https://ohbm.github.io/osr2025/tabletalk/" target="_blank">Table Talk 5:</a> Data governance/infrastructure for Open Datasets</div>
                     <!-- <div><a href="https://www.crowdcast.io/e/osr-table-data-reuse" target="_blank">Join on Crowdcast</a></div> -->
                 </td>
             </tr>
