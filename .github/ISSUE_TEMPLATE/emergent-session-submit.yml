@@ -16,7 +16,7 @@ body:
       description: Who are you and what is your affiliation?
       placeholder: e.g., "Jane Doe, Organization or University"
     validations:
-      required: false
+      required: true
   - type: input
     id: contact
     attributes:
@@ -25,6 +25,14 @@ body:
       placeholder: ex. email@example.com
     validations:
       required: true
+  - type: input
+    id: volunteer
+    attributes:
+      label: Recording and streaming volunteer
+      description: Who can help with recording and streaming the session from your team?
+      placeholder: e.g., "Name, email address"
+    validations:
+      required: false
   - type: textarea
     id: description
     attributes:
@@ -36,7 +44,7 @@ body:
   - type: textarea
     id: links
     attributes:
-      label: Links to relevant materials
+      label: Useful links
       description: Please provide links to any relevant materials (e.g., website, repo, slides, papers, etc.)
       placeholder: Please enter NA if not applicable
     validations:
@@ -48,15 +56,15 @@ body:
       description: We will confirm the time slot with you, but please be aware that the availability might change based on other submissions.
       multiple: true
       options: 
-        - Ses 1: 9:15-10:15 (GMT+10) June 25 (Wednesday)
-        - Ses 2: 15:30-16:30 (GMT+10) June 25 (Wednesday)
-        - Ses 3: 17:45-18:45 (GMT+10) June 25 (Wednesday)
-        - Ses 4: 9:15-10:15 (GMT+10) June 26 (Thursday)
-        - Ses 5: 11:30-12:30 (GMT+10) June 26 (Thursday)
-        - Ses 6: 9:15-10:15 (GMT+10) June 27 (Friday)
-        - Ses 7: 11:30-12:30 (GMT+10) June 27 (Friday)
-        - Ses 8: 9:15-10:15 (GMT+10) June 28 (Saturday)
-        - Ses 9: 11:30-12:30 (GMT+10) June 28 (Saturday)
+        - Ses 1 - 9:15-10:15 (GMT+10) June 25 (Wednesday)
+        - Ses 2 - 15:30-16:30 (GMT+10) June 25 (Wednesday)
+        - Ses 3 - 17:45-18:45 (GMT+10) June 25 (Wednesday)
+        - Ses 4 - 9:15-10:15 (GMT+10) June 26 (Thursday)
+        - Ses 5 - 11:30-12:30 (GMT+10) June 26 (Thursday)
+        - Ses 6 - 9:15-10:15 (GMT+10) June 27 (Friday)
+        - Ses 7 - 11:30-12:30 (GMT+10) June 27 (Friday)
+        - Ses 8 - 9:15-10:15 (GMT+10) June 28 (Saturday)
+        - Ses 9 - 11:30-12:30 (GMT+10) June 28 (Saturday)
       default: 0
     validations:
       required: true
