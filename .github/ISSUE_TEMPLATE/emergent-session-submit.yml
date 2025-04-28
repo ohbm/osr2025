@@ -10,6 +10,13 @@ body:
       value: |
         Thanks for submitting an emergent session request!
   - type: input
+    id: title
+    attributes:
+      label: Title 
+      description: Please provide a title for your session.
+    validations:
+      required: true
+  - type: input
     id: name
     attributes:
       label: Host and Affiliation
@@ -25,6 +32,49 @@ body:
       placeholder: ex. email@example.com
     validations:
       required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Short description and the goals for the session
+      description: Please provide a short description of the session and what you hope to achieve.
+      placeholder: Insert a short description of the session and what you hope to achieve
+    validations:
+      required: true
+  - type: textarea
+    id: links
+    attributes:
+      label: Useful links
+      description: Please provide links to any relevant materials (e.g., website, repo, slides, papers, etc.)
+      placeholder: Please enter NA if not applicable.
+    validations:
+      required: true
+  - type: textarea
+    id: github
+    attributes:
+      label: Relevant GitHub Users
+      description: Please @ the GitHub usernames of people you wish to include.
+      placeholder: Please enter NA if not applicable.
+    validations:
+      required: false
+  - type: dropdown
+    id: time
+    attributes:
+      label: Which time slots work for you? (Please select all that apply.)
+      description: We will confirm the time slot with you, but please be aware that the availability might change based on other submissions.
+      multiple: true
+      options: 
+        - ses1-6/25 (Wed.) 9:15-10:15
+        - ses2-6/25 (Wed.) 15:30-16:30
+        - ses3-6/25 (Wed.) 17:45-18:45
+        - ses4-6/26 (Thu.) 9:15-10:15
+        - ses5-6/26 (Thu.) 11:30-12:30
+        - ses6-6/27 (Fri.) 9:15-10:15
+        - ses7-6/27 (Fri.) 11:30-12:30
+        - ses8-6/28 (Sat.) 9:15-10:15
+        - ses9-6/28 (Sat.) 11:30-12:30
+      default: 0
+    validations:
+      required: true
   - type: input
     id: volunteer
     attributes:
@@ -33,55 +83,13 @@ body:
       placeholder: e.g., "Name, email address"
     validations:
       required: false
-  - type: textarea
-    id: description
-    attributes:
-      label: Short description and the goals for the session
-      description: Please provide a short description of the session and what you hope to achieve.
-      placeholder: insert a short description of the session and what you hope to achieve
-    validations:
-      required: true
-  - type: textarea
-    id: links
-    attributes:
-      label: Useful links
-      description: Please provide links to any relevant materials (e.g., website, repo, slides, papers, etc.)
-      placeholder: Please enter NA if not applicable
-    validations:
-      required: true
-  - type: dropdown
-    id: time
-    attributes:
-      label: Which time slots work for you? (Please select all that apply.)
-      description: We will confirm the time slot with you, but please be aware that the availability might change based on other submissions.
-      multiple: true
-      options: 
-        - Ses 1 - 9:15-10:15 (GMT+10) June 25 (Wednesday)
-        - Ses 2 - 15:30-16:30 (GMT+10) June 25 (Wednesday)
-        - Ses 3 - 17:45-18:45 (GMT+10) June 25 (Wednesday)
-        - Ses 4 - 9:15-10:15 (GMT+10) June 26 (Thursday)
-        - Ses 5 - 11:30-12:30 (GMT+10) June 26 (Thursday)
-        - Ses 6 - 9:15-10:15 (GMT+10) June 27 (Friday)
-        - Ses 7 - 11:30-12:30 (GMT+10) June 27 (Friday)
-        - Ses 8 - 9:15-10:15 (GMT+10) June 28 (Saturday)
-        - Ses 9 - 11:30-12:30 (GMT+10) June 28 (Saturday)
-      default: 0
-    validations:
-      required: true
-  - type: textarea
-    id: github
-    attributes:
-      label: Relevant GitHub Users
-      description: Please @ the GitHub usernames of people you wish to include.
-    validations:
-      required: true
   - type: checkboxes
     id: terms
     attributes:
       label: Agreement to Code of Conduct
       description: By submitting this issue, you agree to follow our [Code of Conduct](https://ohbm.github.io/osr2025/osr_coc/).
       options:
-        - label: I agree to follow this project's Code of Conduct
+        - label: I agree to follow OSR's Code of Conduct
           required: true
   - type: checkboxes
     id: share
