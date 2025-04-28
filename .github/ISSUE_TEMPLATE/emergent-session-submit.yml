@@ -1,0 +1,94 @@
+name: Emergent Session Request
+description: Please submit your request for an emergent session. We will get back to you as soon as possible.
+title: "[Emergent Session]: "
+labels: ["emergent sessions", "urgent"]
+assignees:
+  - ["juchiyu", "jdkent"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for submitting an emergent session request!
+  - type: input
+    id: name
+    attributes:
+      label: Host and Affiliation
+      description: Who are you and what is your affiliation?
+      placeholder: e.g., "Jane Doe, Organization or University"
+    validations:
+      required: false
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. email@example.com
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Short description and the toals for the session
+      description: Please provide a short description of the session and what you hope to achieve.
+      placeholder: insert description here
+    validations:
+      required: true
+  - type: textarea
+    id: links
+    attributes:
+      label: Links to relevant materials
+      description: Please provide links to any relevant materials (e.g., website, repo, slides, papers, etc.)
+      placeholder: please insert one link per line
+    validations:
+      required: true
+  - type: dropdown
+    id: time
+    attributes:
+      label: Which time slots work for you?
+      description: We will confirm the time slot with you, but please be aware that the time slot may change based on availability.
+      multiple: true
+      options: 
+        - 9:15-10:15 (GMT+10) June 25 (Wednesday)
+        - 15:30-16:30 (GMT+10) June 25 (Wednesday)
+        - 17:45-18:45 (GMT+10) June 25 (Wednesday)
+        - 9:15-10:15 (GMT+10) June 26 (Thursday)
+        - 11:30-12:30 (GMT+10) June 26 (Thursday)
+        - 9:15-10:15 (GMT+10) June 27 (Friday)
+        - 11:30-12:30 (GMT+10) June 27 (Friday)
+        - 9:15-10:15 (GMT+10) June 28 (Saturday)
+        - 11:30-12:30 (GMT+10) June 28 (Saturday)
+      default: 0
+    validations:
+      required: true
+  - type: textarea
+    id: github
+    attributes:
+      label: GitHub Users
+      description: Please insert the GitHub usernames of people you wish to include.
+      placeholder: please insert one username per line
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Agreement to Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://ohbm.github.io/osr2025/osr_coc/).
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
+  - type: checkboxes
+    id: share
+    attributes:
+      label: Agreement to Recording and Disemmination
+      description: By submitting this issue, you agree to let us record the session and upload it our YouTube channel.
+      options:
+        - label: I agree to record and diseminate this session on YouTube.
+          required: true
+  - type: checkboxes
+    id: proceedings
+    attributes:
+      label: Agreement to be inclued in the proceedings
+      description: By submitting this issue, you agree to let us transcribe the session into our proceeding. 
+      options:
+        - label: I agree to be included in the proceedings.
+          required: true
