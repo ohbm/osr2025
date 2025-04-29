@@ -19,7 +19,7 @@ These are the topics that we will address in this symposium, organised by the Op
 
 ### Featured Talks: 
 ## Breaking Barriers: A Practical Guide to Thriving as Open Scientists in Neuroimaging
-#### Speaker: TBD
+#### Speaker: Nikhil Parag Bhawat
 
 <br>Navigating the complexities of academia as open scientists demands more than mastering reproducible workflows and open tools; it requires resilience in the face of systemic barriers and a steadfast commitment to fostering transparency
 This talk offers a pragmatic guide tailored for Early Career Researchers, addressing challenges in neuroimaging research (fMRI and EEG) and the adoption of open science practices.
@@ -40,7 +40,11 @@ The talk concludes with actionable steps for integrating open standards and tool
 ## BRIDGE
 #### Speaker: Kimberly Ray
 
+<br>Recently, two global trends have converged at a critical juncture, researchers’ push for open science, and policy-makers’ push for the tightening of personal data privacy (PDP) legislation. The principles underlying these movements, open science’s call for data accessibility and privacy laws’ emphasis on data protection, often stand in opposition. These conflicting movements impede progress in neuroscience, highlighting the need for solutions that balance openness with PDP. Recognizing this critical need, the International Brain Initiative recently published a call to action to develop international data governance frameworks (IDGF) for neuroscience to promote international collaboration and facilitate scientific discovery.<br>
 
+<br>Data governance involves the principles, procedures, frameworks, and policies that safeguard responsible processing of data. A robust IDGF is essential to balance open science with PDP laws, yet such frameworks are lacking in neuroscience. Effective IDGFs can establish standardized protocols for anonymization, data standardization and sharing, and access permissions, thus enabling researchers to share data without compromising PDP.<br>
+
+<br>BRIDGE (braindatagovernance.org), is tasked to develop IDGFs to facilitate international sharing of brain and mental health data, addressing the challenges posed by varying legal, ethical, and technical landscapes. We will present a Practical Guide to Accessing and Sharing Brain Data. This guide will outline a framework for navigating the legal, ethical, and procedural requirements involved in accessing and sharing brain data. We will cover the following stages: Project Planning & Proposal Development, Ethics Approval & Informed Consent, Data Collection, Data Processing & Analysis, Data Sharing & Collaboration, Dissemination & Public Engagement, and Data Stewardship. We will include examples where possible that apply to researchers globally. We will also highlight tools, standards, and resources supporting IDG.<br>
 
 ## AI for open neuroimaging: opportunities and challenges from an open science perspective
 #### Speaker: Helen Zhou
