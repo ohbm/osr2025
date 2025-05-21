@@ -47,7 +47,7 @@ After this date, the nominations will be reviewed by the OSR team based on the e
 <p align="justify">
 During the OSR, attendees can hold **hybrid emergent sessions**. <br> 
 <!-- This year we offer **9 slots** for application. These time slots are open for registration from now till until the end of the conference:<br>
-**9:15-10:15 (GMT+10) June 25** (Wednesday) : OSR: Emergent Session #1 <br>
+**9:00-10:00 (GMT+10) June 25** (Wednesday) : OSR: Emergent Session #1 <br>
 **15:30-16:30 (GMT+10) June 25** (Wednesday) : OSR: Emergent Session #2 <br>
 **17:45-18:45 (GMT+10) June 25** (Wednesday) : OSR: Emergent Session #3 <br>
 **9:15-10:15 (GMT+10) June 26** (Thursday) : OSR: Emergent Session #4 <br>
