@@ -30,10 +30,6 @@ This petition will remain open from June 6th until we bring it to the OHBM counc
 If you have any questions, feedback, or thoughts, please don’t hesitate to contact us via our email (ohbmopenscience@gmail.com) or find us at the 2025 OHBM brainhack and at the annual meeting. We will also be hosting a hybrid table talk on “What’s next for OSSIG?” at 1 pm GMT+10 on June 26th (Thu.), Day 3 of the OHBM.
 
 
-Ju-Chi Yu, Ph.D.
+Ju-Chi Yu, Ph.D., OSR Chair
 
-Open Science Room Chair, OHBM Open Science SIG
-
-James Kent, Ph.D.
-
-Open Science Room Chair Elect, OHBM Open Science SIG
+James Kent, Ph.D., OSR Chair Elect
