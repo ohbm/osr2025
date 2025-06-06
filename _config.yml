@@ -27,6 +27,7 @@ navbar-links:
     - Team: "volunteers"
     #- Sponsors: "sponsors"
   OSSIG: "https://ossig.netlify.app/"
+  Petition: "petition"
   Program:
     - Schedule: "schedule"
     #- Schedule: "schedule-PLACEHOLDER"
