@@ -29,6 +29,7 @@ This petition will remain open from June 6th until we bring it to the OHBM counc
 
 If you have any questions, feedback, or thoughts, please don’t hesitate to contact us via our email (ohbmopenscience@gmail.com) or find us at the 2025 OHBM brainhack and at the annual meeting. We will also be hosting a hybrid table talk on “What’s next for OSSIG?” at 1 pm GMT+10 on June 26th (Thu.), Day 3 of the OHBM.
 
+Stefano Moia, Ph.D., OSSIG Chair
 
 Ju-Chi Yu, Ph.D., OSR Chair
 
