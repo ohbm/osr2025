@@ -19,7 +19,7 @@ We are also concerned about the feasibility of this year’s solution for the fu
 ### Our aim
 This petition aims to highlight the OSR’s value to the OHBM neuroimaging community and address concerns from the Program Committee viewing it as competition or a distraction. The OSR is organized by the OSSIG, which serves the general open science community at OHBM, providing an open, dedicated space where people from all career stages can have discussions on pressing or innovative issues that don’t fit the traditional format of oral presentations. Removing the OSR from OHBM would be a loss for not only the open science community but also the general neuroimaging community at OHBM. We will lose a more accessible and diverse space for community-based conversations.
 
-To support us, please **[Sign the petition](https://chng.it/2R2HJFvcJF)** and
+#### To support us, please **[Sign the petition](https://chng.it/2R2HJFvcJF)** and
 - Help us distribute and voice this concern
 - Share anecdotes and testimonials with us and OHBM’s leadership
 - Send us your feedback and opinion on our activities
@@ -31,6 +31,9 @@ If you have any questions, feedback, or thoughts, please don’t hesitate to con
 
 
 Ju-Chi Yu, Ph.D.
+
 Open Science Room Chair, OHBM Open Science SIG
+
 James Kent, Ph.D.
+
 Open Science Room Chair Elect, OHBM Open Science SIG

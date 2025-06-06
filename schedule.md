@@ -58,9 +58,9 @@ Meanwhile, please find the information in the following sections:
                 </td>
             </tr>
             <tr>
-                <td>9:15-10:15</td>
+                <td>9:00-10:00</td>
                 <td>
-                    <!-- <div><a href="https://ohbm.github.io/osr2025/emergent/" target="_blank">Emergent Session 1</a> </div> -->
+                    <div><a href="https://ohbm.github.io/osr2025/emergent/" target="_blank">Emergent Session 1</a> </div>
                     <!-- <div><a href="https://www.crowdcast.io/e/osr-2025-emergent-1" target="_blank">Join on Crowdcast</a></div> -->
                 </td>
             </tr>
@@ -74,14 +74,14 @@ Meanwhile, please find the information in the following sections:
             <tr>
                 <td>15:30-16:30</td>
                 <td>
-                    <!-- <div><a href="https://ohbm.github.io/osr2025/emergent/" target="_blank">Emergent Session 2</a> </div> -->
+                    <div><a href="https://ohbm.github.io/osr2025/emergent/" target="_blank">Emergent Session 2</a> </div>
                     <!-- <div><a href="https://www.crowdcast.io/e/osr-2025-emergent-1" target="_blank">Join on Crowdcast</a></div> -->
                 </td>
             </tr>
             <tr>
                 <td>17:45-18:45</td>
                 <td>
-                    <!-- <div><a href="https://ohbm.github.io/osr2025/emergent/" target="_blank">Emergent Session 3</a> </div> -->
+                    <div><a href="https://ohbm.github.io/osr2025/emergent/" target="_blank">Emergent Session 3</a> </div>
                     <!-- <div><a href="https://www.crowdcast.io/c/osr-2025-emergent-1" target="_blank">Join on Crowdcast</a></div> -->
                 </td>
             </tr>
@@ -107,14 +107,14 @@ Meanwhile, please find the information in the following sections:
             <tr>
                 <td>9:15-10:15</td>
                 <td>
-                    <!-- <div><a href="https://ohbm.github.io/osr2025/emergent/" target="_blank">Emergent Session 4</a> </div> -->
+                    <div><a href="https://ohbm.github.io/osr2025/emergent/" target="_blank">Emergent Session 4</a> </div>
                     <!-- <div><a href="https://www.crowdcast.io/c/osr-2025-openmic-1" target="_blank">Join on Crowdcast</a></div> -->
                 </td>
             </tr>
             <tr>
                 <td>11:30-12:30</td>
                 <td>
-                    <!-- <div><a href="https://ohbm.github.io/osr2025/emergent/" target="_blank">Emergent Session 5</a> </div> -->
+                    <div><a href="https://ohbm.github.io/osr2025/emergent/" target="_blank">Emergent Session 5</a> </div>
                     <!-- <div><a href="https://www.crowdcast.io/e/osr-2025-emergent-2" target="_blank">Join on Crowdcast</a></div> -->
                 </td>
             </tr>
@@ -128,7 +128,7 @@ Meanwhile, please find the information in the following sections:
             <tr>
                 <td>16:00-17:00</td>
                 <td>
-                    <!-- <div><a href="https://ohbm.github.io/osr2025/tabletalk/" target="_blank">Table Talk 3:</a> Ethical Issues in Open Science: How Open should Open Data be?</div> -->
+                    <div><a href="https://ohbm.github.io/osr2025/tabletalk/" target="_blank">Table Talk 3:</a> Ethical Issues in Open Science: How Open should Open Data be?</div>
                     <!-- <div><a href="https://www.crowdcast.io/c/panel-3-crowdsource" target="_blank">Join on Crowdcast</a></div> -->
                 </td>
             </tr>
@@ -154,14 +154,14 @@ Meanwhile, please find the information in the following sections:
             <tr>
                 <td>9:15-10:15</td>
                 <td>
-                    <!-- <div><a href="https://ohbm.github.io/osr2025/emergent/" target="_blank">Emergent Session 6</a> </div> -->
+                    <div><a href="https://ohbm.github.io/osr2025/emergent/" target="_blank">Emergent Session 6</a> </div>
                     <!-- <div><a href="https://www.crowdcast.io/c/panel-4-changing" target="_blank">Join on Crowdcast</a></div> -->
                 </td>
             </tr>
             <tr>
                 <td>11:30-12:30</td>
                 <td>
-                    <!-- <div><a href="https://ohbm.github.io/osr2025/tabletalk/" target="_blank">Emergent Session 7</a> </div> -->
+                    <div><a href="https://ohbm.github.io/osr2025/tabletalk/" target="_blank">Emergent Session 7</a> </div>
                     <!-- <div><a href="https://www.crowdcast.io/e/osr-table-data-governance" target="_blank">Join on Crowdcast</a></div> -->
                 </td>
             </tr>
@@ -193,14 +193,14 @@ Meanwhile, please find the information in the following sections:
             <tr>
                 <td>9:15-10:15</td>
                 <td>
-                    <!-- <div><a href="https://ohbm.github.io/osr2025/emergent/" target="_blank">Emergent Session 8</a> </div> -->
+                    <div><a href="https://ohbm.github.io/osr2025/emergent/" target="_blank">Emergent Session 8</a> </div>
                     <!-- <div><a href="https://www.crowdcast.io/c/panel-5-asia" target="_blank">Join on Crowdcast</a></div> -->
                 </td>
             </tr>
             <tr>
                 <td>11:30-12:30</td>
                 <td>
-                    <!-- <div><a href="https://ohbm.github.io/osr2025/emergent/" target="_blank">Emergent Session 9</a> </div> -->
+                    <div><a href="https://ohbm.github.io/osr2025/emergent/" target="_blank">Emergent Session 9</a> </div>
                     <!-- <div><a href="https://www.crowdcast.io/c/panel-5-asia" target="_blank">Join on Crowdcast</a></div> -->
                 </td>
             </tr>
