@@ -67,7 +67,7 @@ The sessions will be reviewed based on their timeliness and interest to the open
 
 <p align="justify">
 **9:00-10:00 (GMT+10) June 25** (Wednesday) : OSR: Emergent Session #1 - BIDS Town Hall pt. 2<br>
-**9:15-10:15 (GMT+10) June 26** (Thursday) : OSR: Emergent Session #4 - Metavaluation: Incentivizing Engagement with Open Science Principles, 
+**9:15-10:15 (GMT+10) June 26** (Thursday) : OSR: Emergent Session #4 - Metavaluation: Incentivizing Engagement with Open Science Principles, Practices and Platforms <br>
 **9:15-10:15 (GMT+10) June 27** (Friday) : OSR: Emergent Session #6 - Showcasing open data with run-anywhere open examples<br>
 **11:30-12:30 (GMT+10) June 28** (Saturday) : OSR: Emergent Session #9 - No CAP(saicin) with Dr. Lucina Uddin<br>
 <br>
