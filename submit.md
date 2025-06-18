@@ -76,12 +76,13 @@ The sessions will be reviewed based on their timeliness and interest to the open
 ### Review timeline
 
 <p align="justify">
-We will have early admission decided for 4/9 slots by **June 15th (11:59 pm UTC)**. If there are other submissions left, we will review them again together with requests submitted during the OHBM (including during the OHBM BrainHack). The schedule will be confirmed as soon as possible to ensure support for hybridization.
+We will have early admission decided for 4/9 slots by **June 15th (11:59 pm UTC)**. If there are other submissions left, we will review them again together with requests submitted during the OHBM (including during the OHBM BrainHack). The schedule will be confirmed as soon as possible to ensure support for hybridization.<br>
+<br>
+For requests submitted during the OHBM, we will have two planned rounds of review:<br>
+<br>
 
-For requests submitted during the OHBM, we will have two planned rounds of review:
-
-1. at the end of the BrainHack (**June 23rd, 4 pm GMT+10**)
-2. on Day 2 of the OHBM (**June 26th, 5 pm GMT+10**)
+  1. at the end of the BrainHack (**June 23rd, 4 pm GMT+10**)<br>
+  2. on Day 2 of the OHBM (**June 26th, 5 pm GMT+10**)<br>
 
 *If you need to make a spontaneous request, please send your request and contact us either via email, via this issue (and @juchiyu or @jdkent), or find us at the OSR.*
 </p>
