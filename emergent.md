@@ -27,22 +27,22 @@ Submitted Emergent requests will be briefly reviewed and selected by the OSR tea
 **You can request to hold such a session by creating an issue through our github repo [template](https://github.com/ohbm/osr2025/issues/1){:target="_blank"}.**<br> <br>
 The sessions will be reviewed based on their timeliness and interest to the open science audience by the OSR team and we will notify everyone of their assigned sessions as soon as possible. <br> 
 
-### Emergent Session 1
+### Emergent Session 1: OHBM Open Science Room BIDS Town Hall pt. 2
 
-<!-- #### Neda Sadeghi, Isabelle van der Velpen, and Tonya White, Social and Cognitive Developmental Neuroscience, NIMH -->
+#### Kim Ray, University of Texas at Austin
 #### 9:00 (GMT+10) June 25 (Wednesday)
 <!-- [Join on Crowdcast](https://www.crowdcast.io/c/osr-2024-emergent-1) -->
 
-<!-- <p></p>
-Neuroimaging has contributed considerably to our understanding of brain development and its relationship to cognition and behavior. However, despite advancements in neuroimaging, replicability in research remains a key issue and there is no gold standard that can be used to evaluate neuroanatomical correlates of cognition, behavior and their interplay. Researchers from NIMH, McGill, Georgia Tech, Western Ontario, Beijing Normal, the Radboud UMC/Donders, Forschungszentrum Juelich, and University of Oslo have each independently created simulated datasets of the interplay between brain development and behavior. Each group has worked independently and unaware of the approaches and assumptions made by the other groups. Each group was provided the same number of variables and were instructed to create three datasets with each embedding how they envision the interplay between brain development, behavior, and cognition emerges throughout development. We are releasing these simulated datasets to challenge/invite the research community to determine the underlying patterns and assumptions used to generate the simulated datasets. Each dataset contains 10,000 participants over 7 longitudinal waves and ranging from age 7 to 20. During this panel discussion, we will talk about brain development and the challenges and opportunities that modeling offers us, as well as answer any questions the research community might have about the simulated datasets. The code and descriptions of the models that were used to create the datasets will be released at the time of the OHBM meeting in 2025 in Brisbane.
+*Crowdcast link will be released before the OHBM*
+
+<p></p>
+The Brain Imaging Data Structure (BIDS) standard is a community-led effort to standardize how we organize and describe neuroimaging data. BIDS currently supports multiple neuroimaging modalities and more are under active development. Our community is large and spread across disciplines and domains. In this Town Hall event we will announce recent BIDS achievements and updates from the BIDS extension proposal working groups. After announcements, we will open the Town Hall to public comment and questions. Representatives of the BIDS Steering and Maintainers groups will be present to respond to questions. We are eager to discuss the state and future of BIDS as a community standard!
 
 ##### Participating groups:
-<p>Neda Sadeghi, Isabelle van der Velpen, Dustin Moraczewski, Philip Shaw, Audrey Thurm, Adam Thomas, Tonya White (National Institute of Mental Health, NIH) </p>
-<p>Zi-Xuan Zhou, Xi-Nian Zuo (Beijing Normal University) </p>
-<p>Anna Plachti, Øystein Sørensen, Sarah Genon (Forschungszentrum Juelich and University of Oslo)</p>
-<p>Vince D. Calhoun, Masoud Seraji, Ishaan Batta, Rogers Ferreira Da Silva, Najme Soleimani, Bradley T Baker, Kyle Joseph Cahill (Tri-institutional Center for Translational Research in Neuroimaging and Data Science (TReNDS), Georgia State, Georgia Tech, Emory)</p>
-<p>Rogier Kievit, Léa Michel, Ethan McCormick, Emma Sprooten (Radboud University Medical Centre, Donders Institute for Brain)</p>
-<p>Mallar Chakravarty, J Bruce Morton, Ashley Daniel Wazana (University of Western Ontario, Douglas Mental Health University Institute, and McGill University)</p> -->
+<p>The BIDS team</p>
+
+##### More information:
+[Github issue](https://github.com/ohbm/osr2025/issues/8)
 
 ---
 
@@ -74,14 +74,30 @@ Speaker Nick Souter will join the session virtually, and Niall Duncan and Nikhil
 
 ---
 
-### Emergent Session 4
+### Emergent Session 4: Metavaluation: Incentivizing Engagement with Open Science Principles, Practices and Platforms
 
-<!-- #### Gorana Pobric (Manchester, UK), Peter Fox (San Antonio, Texas), David Kennedy (U Massachusetts) -->
+#### Cooper Smout. (1) Open Heart & Mind (OHM), (2) Institute for Globally Distributed Open Research and Education (IGDORE)
 #### 9:15 (GMT+10) June 26 (Thursday)
 <!-- [Join on Crowdcast](https://www.crowdcast.io/c/osr-2024-emergent-3) -->
 
-<!-- <p></p>
-The spirit of OS is to reduce obstacles to knowledge, data and tools in an attempt to speed up scientific discovery and promote scientific accountability and collaboration. Whilst we all subscribe and aspire to adhere to these worthy goals, the reality is that not all science is, or should be made open. Increasingly, neuroscience research is funded by industry, commercial companies and governmental bodies. The issues around “openness” arise when Intellectual Property Rights (IPR) are involved or when the research study and its findings involve potentially classified data. In this session, we will discuss some obstacles to OS when working with industry and governmental agencies, from different cultural perspectives. We will share our experiences, propose various solutions (e.g. hybrid OS-IP models), and open a discussion about safe research practices in neuroscience for future adoption of OS in a commercial world. -->
+*Crowdcast link will be released before the OHBM*
+
+<p></p>
+Open science faces a collective action problem: while everyone benefits from activities like data sharing, reproducible methods, and open peer review, these and many other essential contributions remain systemically undervalued. Despite decades of open science advocacy and countless viable alternatives, the adoption of open science principles, practices and platforms remains persistently low, primarily due to misaligned incentives.
+
+**Metavaluation** addresses this crisis through a simple and inclusive peer evaluation mechanism that places all contributions on the same scale -- including evaluations themselves -- incentivizing engagement, value creation and collaboration across stakeholders. Critically, the same mechanism can also recognize and reward system improvements, alongside all other scholarly contributions, creating the potential for a virtuous cycle of value creation and systemic change.
+
+Session goals:
+
+- Introduce Metavaluation's conceptual foundations and core mechanics
+- Share prototype data from diverse communities in academia and beyond, demonstrating how interoperable value-aligned metrics can foster coordination
+- Preview our soon-to-be-released open-source MVP application
+- Discuss potential use cases within the field of neuroimaging
+- Share the vision and next steps for interested communities
+
+##### More information:
+[Github issue](https://github.com/ohbm/osr2025/issues/10)
+
 
 ---
 
@@ -109,9 +125,9 @@ GREI would like to learn from OSR participants about their data sharing and repo
 
 ---
 
-### Emergent Session 6
+### Emergent Session 6: Showcasing open data with run-anywhere open examples
 
-<!-- #### Sandeep Panta, Translational Research in Neuroimaging and Data Science (TReNDS) Center, Georgia State University -->
+#### Sandeep Panta, Translational Research in Neuroimaging and Data Science (TReNDS) Center, Georgia State University
 #### 9:10 (GMT+10) June 27 (Friday)
 <!-- [Join on Crowdcast](https://www.crowdcast.io/c/osr-2024-emergent-5) -->
 
