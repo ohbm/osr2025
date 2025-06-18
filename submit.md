@@ -47,26 +47,43 @@ After this date, the nominations will be reviewed by the OSR team based on the e
 <p align="justify">
 During the OSR, attendees can hold **hybrid emergent sessions**. <br> 
 This year we offer **9 slots** for application. These time slots are open for registration from now till until the end of the conference:<br>
+</p>
 
 #### Available sessions
 
+<p align="justify">
 **15:30-16:30 (GMT+10) June 25** (Wednesday) : OSR: Emergent Session #2 <br>
 **17:45-18:45 (GMT+10) June 25** (Wednesday) : OSR: Emergent Session #3 <br>
 **11:30-12:30 (GMT+10) June 26** (Thursday) : OSR: Emergent Session #5 <br>
 **11:30-12:30 (GMT+10) June 27** (Friday) : OSR: Emergent Session #7 <br>
 **9:15-10:15 (GMT+10) June 28** (Saturday) : OSR: Emergent Session #8 <br>
+
 <br> 
 **You can request to hold such a session by creating an issue through our github repo [template](https://github.com/ohbm/osr2025/issues/1){:target="_blank"}.**<br> <br>
 The sessions will be reviewed based on their timeliness and interest to the open science audience by the OSR team and we will notify everyone of their assigned sessions in early June. <br> 
+</p>
 
 #### Accepted session
 
+<p align="justify">
 **9:00-10:00 (GMT+10) June 25** (Wednesday) : OSR: Emergent Session #1 - BIDS Town Hall pt. 2<br>
 **9:15-10:15 (GMT+10) June 26** (Thursday) : OSR: Emergent Session #4 - Metavaluation: Incentivizing Engagement with Open Science Principles, 
 **9:15-10:15 (GMT+10) June 27** (Friday) : OSR: Emergent Session #6 - Showcasing open data with run-anywhere open examples<br>
 **11:30-12:30 (GMT+10) June 28** (Saturday) : OSR: Emergent Session #9 - No CAP(saicin) with Dr. Lucina Uddin<br>
+<br>
+</p>
 
-Practices and Platforms <br>
+### Review timeline
+
+<p align="justify">
+We will have early admission decided for 4/9 slots by **June 15th (11:59 pm UTC)**. If there are other submissions left, we will review them again together with requests submitted during the OHBM (including during the OHBM BrainHack). The schedule will be confirmed as soon as possible to ensure support for hybridization.
+
+For requests submitted during the OHBM, we will have two planned rounds of review:
+
+1. at the end of the BrainHack (**June 23rd, 4 pm GMT+10**)
+2. on Day 2 of the OHBM (**June 26th, 5 pm GMT+10**)
+
+*If you need to make a spontaneous request, please send your request and contact us either via email, via this issue (and @juchiyu or @jdkent), or find us at the OSR.*
 </p>
 {::options parse_block_html="false" /}
 
