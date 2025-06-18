@@ -84,6 +84,7 @@ For requests submitted during the OHBM, we will have two planned rounds of revie
   1. at the end of the BrainHack (**June 23rd, 4 pm GMT+10**)<br>
   2. on Day 2 of the OHBM (**June 26th, 5 pm GMT+10**)<br>
 
+<br>
 *If you need to make a spontaneous request, please send your request and contact us either via email, via this issue (and @juchiyu or @jdkent), or find us at the OSR.*
 </p>
 {::options parse_block_html="false" /}
