@@ -127,21 +127,17 @@ GREI would like to learn from OSR participants about their data sharing and repo
 
 ### Emergent Session 6: Showcasing open data with run-anywhere open examples
 
-#### Sandeep Panta, Translational Research in Neuroimaging and Data Science (TReNDS) Center, Georgia State University
+#### Vijay Iyer, MathWorks
 #### 9:10 (GMT+10) June 27 (Friday)
 <!-- [Join on Crowdcast](https://www.crowdcast.io/c/osr-2024-emergent-5) -->
 
-<!-- <p></p>
+*Crowdcast link will be released before the OHBM*
 
-COINSTAC (Collaborative Informatics and Neuroimaging Suite Toolkit for Anonymous Computation) promotes collaborative research by removing large barriers to traditional data-centric approaches. It allows groups of users to run common analyses on their own machines over their own datasets with ease. The results of these analyses are synchronized to the cloud and undergo aggregate analysis processes using all contributor data. Federated (decentralized) pipelines enable distributed, iterative, and feature-rich analyses, opening up new possibilities for collaborative computation. It also offers data anonymity through differentially private algorithms, so members do not need to fear protected health information (PHI) traceback.
+<p></p>
+Increasing interests in (and requirements for) making scientific data publicly available has driven the launch and growth of a range of scientific data repositories with various storage back-ends, often cloud-based. This proposed emergent session is about the front-end: how can sharers of open datasets best showcase what's in their datasets, so their contemporary and future colleagues can appreciate, understand, re-analyze, and even potentially reach new insights and discoveries from their hard-won data? The host(s) believe that open examples -- publicly viewable and runable computational notebooks with code & text that accesses, explains, and uses the open data -- are a/the key ingredient to drive more engagement with and scientfic advances from open datasets. This session will get into the nitty gritty of puzzles, emerging best practices, and other considerations for producing and disseminating such open examples, such as how remote data is best accessed, data subsetting, cloud & containerized example sandboxes, and more.
 
-The goal of this discussion is to briefly introduce COINSTAC and its new features/algorithms to perform statistical analysis on various datasets. New features include:
-Doing statistical analysis using Singularity containers
-Command line pre-processing tools
-New algorithms including but not limited to Decentralized Source Based Morphometry
-New COINSTAC federated analysis architecture powered by NVIDIA FLARE
-
-We would like to hear feedback about our software such as how to improve the experience for researchers. We welcome anyone who wants to contribute to this open source and open data project with their datasets, algorithms, and code. We would also like to work with other organizations to pursue grants together, including small business grants. Collaborating with other organizations is the best way for us to answer interesting neuroscience-related questions that would not have been possible without COINSTAC and COINSTAC Vaults. -->
+##### More information:
+[Github issue](https://github.com/ohbm/osr2025/issues/9)
 
 ---
 
@@ -161,11 +157,19 @@ We would like to hear feedback about our software such as how to improve the exp
 
 ---
 
-### Emergent Session 9
+### Emergent Session 9: No CAP(saicin) with Dr. Lucina Uddin
 
-<!-- #### Sandeep Panta, Translational Research in Neuroimaging and Data Science (TReNDS) Center, Georgia State University -->
+#### James Kent, University of Texas at Austin
 #### 11:30 (GMT+10) June 28 (Saturday)
 <!-- [Join on Crowdcast](https://www.crowdcast.io/c/osr-2024-emergent-5) -->
+
+*Crowdcast link will be released before the OHBM*
+
+<p></p>
+This session would be a [Hot One's](https://www.youtube.com/playlist?list=PLAzrgbu8gEMIIK3r4Se1dOZWSZzUSadfZ) style interview with Lucina Uddin, asking questions related to her contributions to open science, advocacy, and her philosophy towards science while consuming spicier and spicier hot sauces.
+
+##### More information:
+[Github issue](https://github.com/ohbm/osr2025/issues/7)
 
 ---
 
