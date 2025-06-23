@@ -110,7 +110,7 @@ document.getElementById("open-science-panel").innerHTML = displayPanel("Open Sci
 </html> -->
 
 ## OSR Cross-Societies Panel: The role of scientific communities, pt. 1: open tools for open (neuro)imaging.
-<!-- #### <a href="https://www.crowdcast.io/c/panel-2-start" target="_blank">Join on Crowdcast</a>  -->
+#### <a href="https://www.crowdcast.io/c/panel-1-cross-societies" target="_blank">Join on Crowdcast</a> 
 When: 8:00 GMT+10 | June 26, 2025 (Thursday) <br/>
 Moderators: Stefano Moia (OSSIG), Cristian Montalba (MRITogether)
 Speakers: Udunna Anazodo (CAMERA), Kim Ray (BRIDGE), Jarrod Millman (Scientific Python), Dominique Makowsk (Neurokit)

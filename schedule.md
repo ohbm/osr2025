@@ -100,7 +100,7 @@ Meanwhile, please find the information in the following sections:
             <tr>
                 <td>8:00-9:00</td>
                 <td>
-                    <div><a href="https://ohbm.github.io/osr2025/panel/" target="_blank">OSR Cross-Societies Panel:</a> Scientific Communities, pt. 2: open tools for open (neuro)imaging</div>
+                    <div><a href="https://ohbm.github.io/osr2025/panel/" target="_blank">OSR Cross-Societies Panel:</a> Scientific Communities, pt. 1: open tools for open (neuro)imaging</div>
                     <div><a href="https://www.crowdcast.io/c/panel-1-cross-societies" target="_blank">Join on Crowdcast</a></div>
                 </td>
             </tr>
