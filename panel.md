@@ -85,8 +85,11 @@ Registration will be open soon! -->
 <!-- **If you are interested in joining as a panelist and would like to self-nominate, please self-register <a href="https://forms.office.com/r/pBYUbr5bEg" target="_blank">here</a>!** <br> -->
 
 ## OSR Round Table: Open Science Room Opening ft. BIDS annual updates
-<!-- #### <a href="https://www.crowdcast.io/c/panel-1-bills" target="_blank"> Join on Crowdcast</a>  -->
+#### <a href="https://www.crowdcast.io/c/osr-round-table-1" target="_blank"> Join on Crowdcast</a> 
 When: 8:00 GMT+10 | June 25, 2025 (Wednesday) <br/>
+Moderators & Speakers: Ju-Chi Yu (OSR Chair), James Kent (OSR Chair-Elect), <br/>
+Gabriel Pelletier (TOSI), Russ Poldrack (OpenNeuro), Vijay Iyer (MathWorks), <br/> 
+Kim Ray (the BIDS Team), Eric Earl (the BIDS team)
 <br/>
 <!-- <div>
 <img src="../img/Panel1-speakers.png" alt = "panel1" width="100%" style="margin:10px 10px;">
@@ -106,9 +109,12 @@ document.getElementById("open-science-panel").innerHTML = displayPanel("Open Sci
 </script>
 </html> -->
 
-## OSR Cross-Societies Panel: The role of scientific communities, pt. 2: open tools for open (neuro)imaging.
+## OSR Cross-Societies Panel: The role of scientific communities, pt. 1: open tools for open (neuro)imaging.
 <!-- #### <a href="https://www.crowdcast.io/c/panel-2-start" target="_blank">Join on Crowdcast</a>  -->
 When: 8:00 GMT+10 | June 26, 2025 (Thursday) <br/>
+Moderators: Stefano Moia (OSSIG), Cristian Montalba (MRITogether)
+Speakers: Udunna Anazodo (CAMERA), Kim Ray (BRIDGE), Jarrod Millman (Scientific Python), Dominique Makowsk (Neurokit)
+
 <!-- <p>
 <img src="../img/Panel2-speakers.png" alt = "panel2" width="100%" style="margin:10px 10px;">
 </p> -->
@@ -134,6 +140,8 @@ document.getElementById("open-publishing-panel").innerHTML = displayPanel("Open 
 ## OSR Panel: Harnessing AI and Biological Systems for Advancing Neuroimaging and Biomedical Research
 <!-- #### <a href="https://www.crowdcast.io/c/panel-3-crowdsource" target="_blank"> Join on Crowdcast </a>  -->
 When: 13:00 GMT+10 | June 27, 2025 (Friday) <br/>
+Moderators: Newsha Dehestani, Bruno Hebling Vieira
+Speakers: Zhang Yich, Fourough Habibolahi, Satrajit Ghosh
 <!-- <p>
 <img src="../img/Panel3-speakers.png" alt = "panel3" width="100%" style="margin:10px 10px;">
 </p> -->

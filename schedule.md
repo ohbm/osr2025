@@ -54,14 +54,14 @@ Meanwhile, please find the information in the following sections:
                 <td>8:00-9:00</td>
                 <td>
                     <div><a href="https://ohbm.github.io/osr2025/panel/" target="_blank">OSR Round Table:</a> Open Science Room Opening ft. BIDS Annual Updates  </div>
-                    <!-- <div><a href="https://www.crowdcast.io/c/panel-1-bills" target="_blank">Join on Crowdcast</a></div> -->
+                    <div><a href="https://www.crowdcast.io/c/osr-round-table-1" target="_blank">Join on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>
                 <td>9:00-10:00</td>
                 <td>
                     <div><a href="https://ohbm.github.io/osr2025/emergent/" target="_blank">Emergent Session 1:</a> : BIDS Town Hall pt. 2</div>
-                    <!-- <div><a href="https://www.crowdcast.io/e/osr-2025-emergent-1" target="_blank">Join on Crowdcast</a></div> -->
+                    <div><a href="https://www.crowdcast.io/c/osr-round-table-1" target="_blank">Join on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>
@@ -101,7 +101,7 @@ Meanwhile, please find the information in the following sections:
                 <td>8:00-9:00</td>
                 <td>
                     <div><a href="https://ohbm.github.io/osr2025/panel/" target="_blank">OSR Cross-Societies Panel:</a> Scientific Communities, pt. 2: open tools for open (neuro)imaging</div>
-                    <!-- <div><a href="https://www.crowdcast.io/c/panel-2-start" target="_blank">Join on Crowdcast</a></div> -->
+                    <div><a href="https://www.crowdcast.io/c/panel-1-cross-societies" target="_blank">Join on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>
