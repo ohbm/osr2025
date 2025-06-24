@@ -68,7 +68,7 @@ Meanwhile, please find the information in the following sections:
                 <td>12:45-13:45</td>
                 <td>
                     <div><a href="https://ohbm.github.io/osr2025/tabletalk/" target="_blank">Table Talk 1:</a> Incentives for Open Science</div>
-                    <!-- <div><a href="https://www.crowdcast.io/c/osr-2025-emergent-1" target="_blank">Join on Crowdcast</a></div> -->
+                    <div><a href="https://www.crowdcast.io/c/osr-2025-table-talk-1-incentives" target="_blank">Join on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>
