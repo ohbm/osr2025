@@ -12,7 +12,7 @@ This year, we will feature 5 table talks covering different topics of Open Scien
 #### Table Talk 1: Incentives for Open Science
 WHEN: 12:45 (GMT+10), June 25 (Wednesday)  <br>
 Featured Experts: Andrew Zalesky, Ph.D., Annabel Chen, Ph.D., and Elvisha Dhamala, Ph.D. <br>
-[Join on Crowdcast](https://www.crowdcast.io/c/osr-2025-table-talk-1-incentives)
+[Join on Crowdcast](https://www.crowdcast.io/e/osr-2025-table-talk-1-incentives)
 
 Brain imaging research has benefited from Open Science practices in data sharing and tools development for standardizing the complex processing steps of neuroimaging data. These collective efforts from the Open Science community have enhanced the reliability, generalizability, and ultimately clinical translatability of brain-behavior findings. However, with limited recognition and supporting resources, many teams that govern the open datasets and that maintain the open tools have struggled to provide sustainable services to the broad research community. In addition, the open science community, especially early-career researchers, has started to raise concerns regarding the incentives in the Open Science practices considering the incommensurate payoff in career development for the invested time and effort. 
 
