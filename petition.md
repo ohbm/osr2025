@@ -3,15 +3,6 @@ layout: page
 title: OSR Petition
 ---
 
-## Updates
-
-### Posted June 25th, 2025
-
-We had a conversation with the upcoming program chair, and we reached an understanding for which we believe that the Open Science Room (OSR) will happen again next year (with a few changes).  Feel free to keep signing the petition to show your support to the initiative, but please do reach out to us to understand how to improve our interaction with the whole OHBM community. Thank you for your support so far!
-
-
-* We want to reassure that we do not believe our content to be superior to any scientific session that may or may not be accepted or rejected from the program. That is not the spirit of the Open Science Room, and in fact we reiterate that we appreciate more content and more options, we just want to be sure a space like the OSR is also carried forward. There are many reasons for content to be rejected, and many times it comes to limited time and space rather than scientific quality.
-
 ## The petition
 
 ### Posted on June 7th, 2025
