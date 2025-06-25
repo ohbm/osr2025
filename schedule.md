@@ -108,7 +108,7 @@ Meanwhile, please find the information in the following sections:
                 <td>9:15-10:15</td>
                 <td>
                     <div><a href="https://ohbm.github.io/osr2025/emergent/" target="_blank">Emergent Session 4:</a> Metavaluation: Incentivizing Engagement with Open Science Principles, Practices and Platforms</div>
-                    <!-- <div><a href="https://www.crowdcast.io/c/osr-2025-openmic-1" target="_blank">Join on Crowdcast</a></div> -->
+                    <div><a href="https://www.crowdcast.io/c/osr-2025-emergent-4-metavaluation" target="_blank">Join on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>
@@ -122,14 +122,14 @@ Meanwhile, please find the information in the following sections:
                 <td>13:00-14:00</td>
                 <td>
                     <div><a href="https://ohbm.github.io/osr2025/tabletalk/" target="_blank">Table Talk 2:</a> What's Next for Open Science SIG?</div>
-                    <!-- <div><a href="https://www.crowdcast.io/c/osr-2025-openmic-2" target="_blank">Join on Crowdcast</a></div> -->
+                    <div><a href="https://www.crowdcast.io/c/osr-2025-table-talk-2-ossig" target="_blank">Join on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>
                 <td>16:00-17:00</td>
                 <td>
                     <div><a href="https://ohbm.github.io/osr2025/tabletalk/" target="_blank">Table Talk 3:</a> Ethical Issues in Open Science: How Open should Open Data be?</div>
-                    <!-- <div><a href="https://www.crowdcast.io/c/panel-3-crowdsource" target="_blank">Join on Crowdcast</a></div> -->
+                    <div><a href="https://www.crowdcast.io/c/osr-2025-table-talk-3" target="_blank">Join on Crowdcast</a></div>
                 </td>
             </tr>
         </table>
@@ -148,14 +148,14 @@ Meanwhile, please find the information in the following sections:
                 <td>8:00-9:00</td>
                 <td>
                     <div><a href="https://ohbm.github.io/osr2025/tabletalk/" target="_blank">Table Talk 4:</a> Recommended Practices in Open Science</div>
-                    <!-- <div><a href="https://www.crowdcast.io/c/osr-2025-emergent-3" target="_blank">Join on Crowdcast</a></div> -->
+                    <div><a href="https://www.crowdcast.io/c/osr-2025-table-talk-4" target="_blank">Join on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>
                 <td>9:15-10:15</td>
                 <td>
                     <div><a href="https://ohbm.github.io/osr2025/emergent/" target="_blank">Emergent Session 6:</a> Showcasing open data with run-anywhere open examples </div>
-                    <!-- <div><a href="https://www.crowdcast.io/c/panel-4-changing" target="_blank">Join on Crowdcast</a></div> -->
+                    <div><a href="https://www.crowdcast.io/c/osr-2025-emergent-6-opendata" target="_blank">Join on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>
@@ -169,7 +169,7 @@ Meanwhile, please find the information in the following sections:
                 <td>13:00-14:00</td>
                 <td>
                     <div><a href="https://ohbm.github.io/osr2025/panel/" target="_blank">OSR Panel:</a> Harnessing AI and Biological Systems for Advancing Neuroimaging and Biomedical Research</div>
-                    <!-- <div><a href="https://www.crowdcast.io/c/osr-2025-emergent-4" target="_blank">Join on Crowdcast</a></div> -->
+                    <div><a href="https://www.crowdcast.io/c/panel-2-harnessing-ai" target="_blank">Join on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>
@@ -201,14 +201,14 @@ Meanwhile, please find the information in the following sections:
                 <td>11:30-12:30</td>
                 <td>
                     <div><a href="https://ohbm.github.io/osr2025/emergent/" target="_blank">Emergent Session 9:</a> No CAP(saicin) with Dr. Lucina Uddin</div>
-                    <!-- <div><a href="https://www.crowdcast.io/c/panel-5-asia" target="_blank">Join on Crowdcast</a></div> -->
+                    <div><a href="https://www.crowdcast.io/c/osr-2025-emergent-9" target="_blank">Join on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>
                 <td>13:00-14:00</td>
                 <td>
                     <div><a href="https://ohbm.github.io/osr2025/tabletalk/" target="_blank">Table Talk 5:</a> Data governance/infrastructure for Open Datasets</div>
-                    <!-- <div><a href="https://www.crowdcast.io/e/osr-table-data-reuse" target="_blank">Join on Crowdcast</a></div> -->
+                    <div><a href="https://www.crowdcast.io/c/osr-2025-table-talk-5" target="_blank">Join on Crowdcast</a></div>
                 </td>
             </tr>
         </table>

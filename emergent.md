@@ -31,9 +31,7 @@ The sessions will be reviewed based on their timeliness and interest to the open
 
 #### Kim Ray, University of Texas at Austin
 #### 9:00 (GMT+10) June 25 (Wednesday)
-<!-- [Join on Crowdcast](https://www.crowdcast.io/c/osr-2024-emergent-1) -->
-
-*Crowdcast link will be released before the OHBM*
+[Join on Crowdcast](https://www.crowdcast.io/c/osr-round-table-1)
 
 <p></p>
 The Brain Imaging Data Structure (BIDS) standard is a community-led effort to standardize how we organize and describe neuroimaging data. BIDS currently supports multiple neuroimaging modalities and more are under active development. Our community is large and spread across disciplines and domains. In this Town Hall event we will announce recent BIDS achievements and updates from the BIDS extension proposal working groups. After announcements, we will open the Town Hall to public comment and questions. Representatives of the BIDS Steering and Maintainers groups will be present to respond to questions. We are eager to discuss the state and future of BIDS as a community standard!
@@ -78,7 +76,7 @@ Speaker Nick Souter will join the session virtually, and Niall Duncan and Nikhil
 
 #### Cooper Smout. (1) Open Heart & Mind (OHM), (2) Institute for Globally Distributed Open Research and Education (IGDORE)
 #### 9:15 (GMT+10) June 26 (Thursday)
-<!-- [Join on Crowdcast](https://www.crowdcast.io/c/osr-2024-emergent-3) -->
+[Join on Crowdcast](https://www.crowdcast.io/c/osr-2025-emergent-4-metavaluation)
 
 *Crowdcast link will be released before the OHBM*
 
@@ -129,9 +127,7 @@ GREI would like to learn from OSR participants about their data sharing and repo
 
 #### Vijay Iyer, MathWorks
 #### 9:10 (GMT+10) June 27 (Friday)
-<!-- [Join on Crowdcast](https://www.crowdcast.io/c/osr-2024-emergent-5) -->
-
-*Crowdcast link will be released before the OHBM*
+[Join on Crowdcast](https://www.crowdcast.io/c/osr-2025-emergent-6-opendata)
 
 <p></p>
 Increasing interests in (and requirements for) making scientific data publicly available has driven the launch and growth of a range of scientific data repositories with various storage back-ends, often cloud-based. This proposed emergent session is about the front-end: how can sharers of open datasets best showcase what's in their datasets, so their contemporary and future colleagues can appreciate, understand, re-analyze, and even potentially reach new insights and discoveries from their hard-won data? The host(s) believe that open examples -- publicly viewable and runable computational notebooks with code & text that accesses, explains, and uses the open data -- are a/the key ingredient to drive more engagement with and scientfic advances from open datasets. This session will get into the nitty gritty of puzzles, emerging best practices, and other considerations for producing and disseminating such open examples, such as how remote data is best accessed, data subsetting, cloud & containerized example sandboxes, and more.
@@ -161,9 +157,7 @@ Increasing interests in (and requirements for) making scientific data publicly a
 
 #### James Kent, University of Texas at Austin
 #### 11:30 (GMT+10) June 28 (Saturday)
-<!-- [Join on Crowdcast](https://www.crowdcast.io/c/osr-2024-emergent-5) -->
-
-*Crowdcast link will be released before the OHBM*
+[Join on Crowdcast](https://www.crowdcast.io/c/osr-2025-emergent-9)
 
 <p></p>
 This session would be a [Hot One's](https://www.youtube.com/playlist?list=PLAzrgbu8gEMIIK3r4Se1dOZWSZzUSadfZ) style interview with Lucina Uddin, asking questions related to her contributions to open science, advocacy, and her philosophy towards science while consuming spicier and spicier hot sauces.

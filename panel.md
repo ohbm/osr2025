@@ -138,7 +138,7 @@ document.getElementById("open-publishing-panel").innerHTML = displayPanel("Open 
 </html> -->
 
 ## OSR Panel: Harnessing AI and Biological Systems for Advancing Neuroimaging and Biomedical Research
-<!-- #### <a href="https://www.crowdcast.io/c/panel-3-crowdsource" target="_blank"> Join on Crowdcast </a>  -->
+#### <a href="https://www.crowdcast.io/c/panel-2-harnessing-ai" target="_blank"> Join on Crowdcast </a> 
 When: 13:00 GMT+10 | June 27, 2025 (Friday) <br/>
 Moderators: Newsha Dehestani, Bruno Hebling Vieira
 Speakers: Zhang Yich, Fourough Habibolahi, Satrajit Ghosh
