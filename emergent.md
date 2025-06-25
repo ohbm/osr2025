@@ -137,11 +137,19 @@ Increasing interests in (and requirements for) making scientific data publicly a
 
 ---
 
-### Emergent Session 7
+### Emergent Session 7: Perspectives on the Future of Publishing in Neuroinformatics
 
-<!-- #### Sandeep Panta, Translational Research in Neuroimaging and Data Science (TReNDS) Center, Georgia State University -->
-#### 9:15 (GMT+10) June 27 (Friday)
+#### GigaScience Press
+#### 11:30 (GMT+10) June 27 (Friday) 
 <!-- [Join on Crowdcast](https://www.crowdcast.io/c/osr-2024-emergent-5) -->
+
+<p></p>
+With the increasing growth of extremely large-scale data research, tools, computational methods and AI, publishing needs to keep up with these rapid advances and move beyond the PDF, without compromising the open science ethos of OHBM.
+
+This emerging session will include three journals - Aperture Neuro, Imaging Neuroscience and GigaByte. A representative from each journal will present their perspectives and experiences on what the future of FAIR publishing in the context of neuroinformatics may look like. The overall goal is to show researchers the options available in open science publishing and foster discussion on publishing and how journals can better serve the neuroinformatics community.
+
+##### More information:
+[Github issue](https://github.com/ohbm/osr2025/issues/14)
 
 ---
 
