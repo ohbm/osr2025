@@ -162,7 +162,7 @@ Meanwhile, please find the information in the following sections:
                 <td>11:30-12:30</td>
                 <td>
                     <div><a href="https://ohbm.github.io/osr2025/tabletalk/" target="_blank">Emergent Session 7:</a> Perspectives on the Future of Publishing in Neuroinformatics </div>
-                    <!-- <div><a href="https://www.crowdcast.io/e/osr-table-data-governance" target="_blank">Join on Crowdcast</a></div> -->
+                    <div><a href="https://www.crowdcast.io/c/osr-2025-emergent-7-publishing" target="_blank">Join on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>

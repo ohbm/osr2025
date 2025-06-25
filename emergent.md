@@ -141,7 +141,7 @@ Increasing interests in (and requirements for) making scientific data publicly a
 
 #### GigaScience Press
 #### 11:30 (GMT+10) June 27 (Friday) 
-<!-- [Join on Crowdcast](https://www.crowdcast.io/c/osr-2024-emergent-5) -->
+[Join on Crowdcast](https://www.crowdcast.io/c/osr-2025-emergent-7-publishing)
 
 <p></p>
 With the increasing growth of extremely large-scale data research, tools, computational methods and AI, publishing needs to keep up with these rapid advances and move beyond the PDF, without compromising the open science ethos of OHBM.
