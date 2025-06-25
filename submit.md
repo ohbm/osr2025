@@ -55,7 +55,6 @@ This year we offer **9 slots** for application. These time slots are open for re
 **15:30-16:30 (GMT+10) June 25** (Wednesday) : OSR: Emergent Session #2 <br>
 **17:45-18:45 (GMT+10) June 25** (Wednesday) : OSR: Emergent Session #3 <br>
 **11:30-12:30 (GMT+10) June 26** (Thursday) : OSR: Emergent Session #5 <br>
-**11:30-12:30 (GMT+10) June 27** (Friday) : OSR: Emergent Session #7 <br>
 **9:15-10:15 (GMT+10) June 28** (Saturday) : OSR: Emergent Session #8 <br>
 
 <br> 
@@ -69,6 +68,7 @@ The sessions will be reviewed based on their timeliness and interest to the open
 **9:00-10:00 (GMT+10) June 25** (Wednesday) : OSR: Emergent Session #1 - BIDS Town Hall pt. 2<br>
 **9:15-10:15 (GMT+10) June 26** (Thursday) : OSR: Emergent Session #4 - Metavaluation: Incentivizing Engagement with Open Science Principles, Practices and Platforms <br>
 **9:15-10:15 (GMT+10) June 27** (Friday) : OSR: Emergent Session #6 - Showcasing open data with run-anywhere open examples<br>
+**11:30-12:30 (GMT+10) June 27** (Friday) : OSR: Emergent Session #7 - Perspectives on the Future of Publishing in Neuroinformatics<br>
 **11:30-12:30 (GMT+10) June 28** (Saturday) : OSR: Emergent Session #9 - No CAP(saicin) with Dr. Lucina Uddin<br>
 <br>
 </p>
