@@ -107,7 +107,7 @@ Meanwhile, please find the information in the following sections:
             <tr>
                 <td>9:15-10:15</td>
                 <td>
-                    <div><a href="https://ohbm.github.io/osr2025/emergent/" target="_blank">Emergent Session 4:</a> Metavaluation: Incentivizing Engagement with Open Science Principles, Practices and Platforms</div>
+                    <div><a href="https://ohbm.github.io/osr2025/emergent/" target="_blank">Emergent Session 4:</a> Metavaluation: Kickstarting a Virtuous Cycle in Open Science</div>
                     <div><a href="https://www.crowdcast.io/c/osr-2025-emergent-4-metavaluation" target="_blank">Join on Crowdcast</a></div>
                 </td>
             </tr>

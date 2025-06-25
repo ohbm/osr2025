@@ -72,7 +72,7 @@ Speaker Nick Souter will join the session virtually, and Niall Duncan and Nikhil
 
 ---
 
-### Emergent Session 4: Metavaluation: Incentivizing Engagement with Open Science Principles, Practices and Platforms
+### Emergent Session 4: Metavaluation: Kickstarting a Virtuous Cycle in Open Science
 
 #### Cooper Smout. (1) Open Heart & Mind (OHM), (2) Institute for Globally Distributed Open Research and Education (IGDORE)
 #### 9:15 (GMT+10) June 26 (Thursday)
