@@ -3,6 +3,12 @@ layout: page
 title: OSR Petition
 ---
 
+### Updates (posted on June 26th, 2025)
+
+Thank you so much for your support and for sharing your experience with us! We have closed the petition and will continue the conversation with the OHBM council and the program committee.
+
+The 2025 organizing team of the OSSIG and the OSR
+
 ### Updates (posted on June 25th, 2025)
 
 We had a conversation with the upcoming program chair, and we reached an understanding for which we believe that the Open Science Room (OSR) will happen again next year (with a few changes).  Feel free to keep signing the petition to show your support to the initiative, but please do reach out to us to understand how to improve our interaction with the whole OHBM community. Thank you for your support so far!
