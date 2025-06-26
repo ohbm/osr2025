@@ -153,11 +153,17 @@ This emerging session will include three journals - Aperture Neuro, Imaging Neur
 
 ---
 
-### Emergent Session 8
+### Emergent Session 8: The Nexus PORTAL DOORS Scribe (NPDS) Cyberinfrastructure for open data and metadata management
 
-<!-- #### Sandeep Panta, Translational Research in Neuroimaging and Data Science (TReNDS) Center, Georgia State University -->
+#### Brain Health Alliance
+
 #### 9:15 (GMT+10) June 28 (Saturday)
 <!-- [Join on Crowdcast](https://www.crowdcast.io/c/osr-2024-emergent-5) -->
+
+Demo usage of live NPDS repositories and show people where they can download the software with which they can set up their own repositories on their own servers. If some permits, go over installation process and answer questions.
+
+##### More information:
+[Github issue](https://github.com/ohbm/osr2025/issues/16)
 
 ---
 
