@@ -46,7 +46,7 @@ As for the main OHBM conference, this year's OSR will happen across in hybrid fo
 {% include youtubePlayer.html id="xSGlsht4eHw" %}
 <p align="justify">**What are Panel Discussions?**</p>
 <p align="justify"> Panel Discussions are discussions amongst selected speakers and OSR attendees about various relevant topics, spanning across all aspects of open science practices.
-In the 2024 OSR, we aim to address new and emerging topics in the discipline, along with big picture issues in open science. The OSR Panel Sessions are also a space to meet and interact with invited panelists about a multitude of topics. Since this year's OSR is hybrid, we aim to create in-person and virtual sessions, which will be 'live' and re-broadcasted to support everyone in making real connections with other attendees and panelists.</p>
+In the 2025 OSR, we aim to address new and emerging topics in the discipline, along with big picture issues in open science. The OSR Panel Sessions are also a space to meet and interact with invited panelists about a multitude of topics. Since this year's OSR is hybrid, we aim to create in-person and virtual sessions, which will be 'live' and re-broadcasted to support everyone in making real connections with other attendees and panelists.</p>
 
 <p align="justify">**What is the format of Panel Discussions?**</p>
 <p align="justify">Panel Discussion will feature a host that will moderate a predetermined topic of discussion among a panel of speakers.
