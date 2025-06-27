@@ -158,7 +158,7 @@ This emerging session will include three journals - Aperture Neuro, Imaging Neur
 #### Brain Health Alliance
 
 #### 9:15 (GMT+10) June 28 (Saturday)
-<!-- [Join on Crowdcast](https://www.crowdcast.io/c/osr-2024-emergent-5) -->
+[Join on Crowdcast](https://www.crowdcast.io/c/osr-2025-emergent-8-npds)
 
 Demo usage of live NPDS repositories and show people where they can download the software with which they can set up their own repositories on their own servers. If some permits, go over installation process and answer questions.
 

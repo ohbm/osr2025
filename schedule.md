@@ -194,7 +194,7 @@ Meanwhile, please find the information in the following sections:
                 <td>9:15-10:15</td>
                 <td>
                     <div><a href="https://ohbm.github.io/osr2025/emergent/" target="_blank">Emergent Session 8:</a> The Nexus PORTAL DOORS Scribe (NPDS) Cyberinfrastructure for open data and metadata management </div>
-                    <!-- <div><a href="https://www.crowdcast.io/c/panel-5-asia" target="_blank">Join on Crowdcast</a></div> -->
+                    <div><a href="https://www.crowdcast.io/c/osr-2025-emergent-8-npds" target="_blank">Join on Crowdcast</a></div>
                 </td>
             </tr>
             <tr>
