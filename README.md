@@ -35,11 +35,19 @@ Wipe the built directories if they already exist, and re-build:
 `rm -r _speakers _volunteers; bundle exec jekyll pagemaster speakers volunteers`
 Commit the new directories and push the site. This must be done every time the CSV files are changed. 
 
-+ If `bundle exect` error out, do the following things:
++ If `bundle exec` error out, do the following things:
 
     1. Create Gemfile
     2. Follow the errors and add all required dependencies
-    3. Run `bundel install`
+    3. Run `bundle install`
 
+##### Docker alternative
 
+To avoid installing Ruby and all dependencies on your local machine, you can use Docker to build and serve the site. Run the following command in the root of the repository:
 
+```bash
+docker run --rm -it -p 4000:4000 \
+  -v "$PWD":/site -w /site \
+  ruby:3.2 bash -lc \
+  "bundle install && bundle exec jekyll serve --host 0.0.0.0"
+```
