@@ -89,7 +89,7 @@ Registration will be open soon! -->
 When: 8:00 GMT+10 | June 25, 2025 (Wednesday) <br/>
 Moderators & Speakers: Ju-Chi Yu (OSR Chair), James Kent (OSR Chair-Elect), <br/>
 Gabriel Pelletier (TOSI), Russ Poldrack (OpenNeuro), Vijay Iyer (MathWorks), <br/> 
-Kim Ray (the BIDS Team), Eric Earl (the BIDS team)
+Kim Ray (the BIDS Team)
 <br/>
 <!-- <div>
 <img src="../img/Panel1-speakers.png" alt = "panel1" width="100%" style="margin:10px 10px;">
